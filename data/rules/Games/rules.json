@@ -1,0 +1,208 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "Submissions and comments that are intended to entertain rather than inform or discuss will be removed.\n\n[Click for our full rules and descriptions](https://www.reddit.com/r/Games/wiki/rules).",
+      "short_name": "No content primarily for humor or entertainment",
+      "violation_reason": "Rule 1 Content primarily for humour/entertainment",
+      "created_utc": 1652986204,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Submissions and comments that are intended to entertain rather than inform or discuss will be removed.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/Games/wiki/rules\"&gt;Click for our full rules and descriptions&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Whether against a reddit user or people in the industry, inciting harassment on any individual or group is not acceptable under any circumstances and will likely result in a ban.\n\n[Click for our full rules and descriptions](https://www.reddit.com/r/Games/wiki/rules).",
+      "short_name": "No Attacks / Witch-hunts / Bigotry / Inflammatory language",
+      "violation_reason": "Rule 2 Personal attack or witch-hunt",
+      "created_utc": 1652986204,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Whether against a reddit user or people in the industry, inciting harassment on any individual or group is not acceptable under any circumstances and will likely result in a ban.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/Games/wiki/rules\"&gt;Click for our full rules and descriptions&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Submissions should be directly related to games or the game industry. Top level comments must be on topic. Lower level comments should be reasonably related to the discussion. \n\n[Click for our full rules and descriptions](https://www.reddit.com/r/Games/wiki/rules).",
+      "short_name": "No off-topic or low-effort content or comments",
+      "violation_reason": "Rule 3 Off-topic or low-effort content",
+      "created_utc": 1652986204,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Submissions should be directly related to games or the game industry. Top level comments must be on topic. Lower level comments should be reasonably related to the discussion. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/Games/wiki/rules\"&gt;Click for our full rules and descriptions&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Reposts or submissions with extremely similar content to an existing submission may be removed at mod discretion.\n\n[Click for our full rules and descriptions](https://www.reddit.com/r/Games/wiki/rules).",
+      "short_name": "No duplicate posts",
+      "violation_reason": "Rule 4 Duplicate post/topic",
+      "created_utc": 1652986204,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Reposts or submissions with extremely similar content to an existing submission may be removed at mod discretion.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/Games/wiki/rules\"&gt;Click for our full rules and descriptions&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Digital piracy is the unauthorized use or reproduction of another's work, games or other. Enabling piracy by informing others how to circumvent the law or linking to it by providing access to pirated material is not allowed. This includes linking to scanned images of other copyrighted work, such as commercial magazines. News and discussion regarding emulators is allowed provided no copyrighted content is linked to.\n\n[Click for our full rules and descriptions](/r/Games/wiki/rules).",
+      "short_name": "No enabling or linking to piracy",
+      "violation_reason": "Rule 5 Piracy",
+      "created_utc": 1652986204,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Digital piracy is the unauthorized use or reproduction of another&amp;#39;s work, games or other. Enabling piracy by informing others how to circumvent the law or linking to it by providing access to pirated material is not allowed. This includes linking to scanned images of other copyrighted work, such as commercial magazines. News and discussion regarding emulators is allowed provided no copyrighted content is linked to.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"/r/Games/wiki/rules\"&gt;Click for our full rules and descriptions&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "/r/Games has specific formatting requirements for submissions. This covers titles, sources, and post content.\n\n[Click for full rules on formatting requirements](https://www.reddit.com/r/Games/wiki/rules#wiki_formatting_requirements)",
+      "short_name": "Formatting Requirements (All of Rule 6)",
+      "violation_reason": "Rule 6 Formatting requirements",
+      "created_utc": 1652986204,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/r/Games\"&gt;/r/Games&lt;/a&gt; has specific formatting requirements for submissions. This covers titles, sources, and post content.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/Games/wiki/rules#wiki_formatting_requirements\"&gt;Click for full rules on formatting requirements&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "/r/Games has rules that restrict specific types of content. For example, discussion submissions should aim to have broad enough scope for quality discussion, whereas looking for a solution or game suggestion, unsubstantiated rumours, petitions/surveys, or posting about a server/community are not allowed.\n\n[Click for full rules on content restrictions](/r/Games/wiki/rules#wiki_specific_content_restrictions)",
+      "short_name": "Specific Content Restrictions (All of Rule 7)",
+      "violation_reason": "Rule 7 Content restrictions",
+      "created_utc": 1652986204,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/r/Games\"&gt;/r/Games&lt;/a&gt; has rules that restrict specific types of content. For example, discussion submissions should aim to have broad enough scope for quality discussion, whereas looking for a solution or game suggestion, unsubstantiated rumours, petitions/surveys, or posting about a server/community are not allowed.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"/r/Games/wiki/rules#wiki_specific_content_restrictions\"&gt;Click for full rules on content restrictions&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "No more than 10% of your reddit account's submissions may be about a given topic or source, such as about one particular game, content from one particular website, or articles from one particular author. \n\n[Click for a full explanation of this rule](https://www.reddit.com/r/Games/wiki/rules#wiki_promotion_must_be_kept_within_acceptable_limits)",
+      "short_name": "Follow promotional limits",
+      "violation_reason": "Rule 8 Breaking (self)promotion limit",
+      "created_utc": 1652986204,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;No more than 10% of your reddit account&amp;#39;s submissions may be about a given topic or source, such as about one particular game, content from one particular website, or articles from one particular author. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/Games/wiki/rules#wiki_promotion_must_be_kept_within_acceptable_limits\"&gt;Click for a full explanation of this rule&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

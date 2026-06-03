@@ -1,0 +1,28 @@
+{
+  "sub": "aiwars",
+  "length_unit": "words",
+  "n_train": 6073,
+  "n_test": 1519,
+  "fit_on_train": {
+    "threshold": 40,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5143,
+    "tp": 2104,
+    "fp": 2026,
+    "tn": 1017,
+    "fn": 926
+  },
+  "test": {
+    "accuracy": 0.5023,
+    "f1_removed": 0.5809,
+    "f1_macro": 0.4841,
+    "kappa": 0.0015,
+    "precision": 0.5048,
+    "recall": 0.6841,
+    "balanced_accuracy": 0.5007,
+    "tp": 524,
+    "fp": 514,
+    "tn": 239,
+    "fn": 242
+  }
+}

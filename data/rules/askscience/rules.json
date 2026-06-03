@@ -1,0 +1,207 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "Medical advice is strictly prohibited on AskScience. Asking for or giving medical advice are both against the rules.",
+      "short_name": "Medical advice",
+      "violation_reason": "Offering/Asking for medical advice",
+      "created_utc": 1652986325,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Medical advice is strictly prohibited on AskScience. Asking for or giving medical advice are both against the rules.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "AskScience has a strict policy against abusive and offensive language. Unless that language is in the context of research, it has no place here. We hold comments and posts to a high level of professionalism. We require our users and volunteers to always maintain a level of professionalism in order to participate.",
+      "short_name": "Offensive or abusive language",
+      "violation_reason": "Abusive or offensive language",
+      "created_utc": 1652986325,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;AskScience has a strict policy against abusive and offensive language. Unless that language is in the context of research, it has no place here. We hold comments and posts to a high level of professionalism. We require our users and volunteers to always maintain a level of professionalism in order to participate.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Homework questions are something that AskScience feels their experts should not be answering but instead should be answered by the person assigned the homework. While this is not always clear cut and is sometime up for personal interpretation, please report anything you believe to be homework.",
+      "short_name": "Homework question",
+      "violation_reason": "Question asking for answer to homework",
+      "created_utc": 1652986325,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Homework questions are something that AskScience feels their experts should not be answering but instead should be answered by the person assigned the homework. While this is not always clear cut and is sometime up for personal interpretation, please report anything you believe to be homework.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Memes, jokes, or comments consisting solely of a link are not allowed.",
+      "short_name": "Meme, joke, or just link",
+      "violation_reason": "Memes, jokes, or comments of just a link",
+      "created_utc": 1652986325,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Memes, jokes, or comments consisting solely of a link are not allowed.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Top level comments (direct replies to a question, not a reply to another user's comment) must be an answer to the question posed, or a follow-up question to the post.",
+      "short_name": "Top-level comment not answering the question",
+      "violation_reason": "Top-level comment not answering the question",
+      "created_utc": 1652986325,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Top level comments (direct replies to a question, not a reply to another user&amp;#39;s comment) must be an answer to the question posed, or a follow-up question to the post.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Answers should be supported by reputable sources and scientific research. Do not cite yourself as a source.",
+      "short_name": "Nonreputable answer",
+      "violation_reason": "Nonreputable answer",
+      "created_utc": 1652986325,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Answers should be supported by reputable sources and scientific research. Do not cite yourself as a source.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "If the question can be answered with a Google search, it is not appropriate for r/AskScience. Further, no simple calculations are allowed.",
+      "short_name": "Simple calculation or easily Googleable",
+      "violation_reason": "Simple calculation or easily Googleable",
+      "created_utc": 1652986325,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If the question can be answered with a Google search, it is not appropriate for &lt;a href=\"/r/AskScience\"&gt;r/AskScience&lt;/a&gt;. Further, no simple calculations are allowed.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "No bots, no AI generated answers",
+      "violation_reason": "No bots, no AI generated answers",
+      "created_utc": 1670526070,
+      "priority": 7
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

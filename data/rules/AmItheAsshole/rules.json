@@ -1,0 +1,234 @@
+{
+  "rules": [
+    {
+      "kind": "comment",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_1.3A_be_civil)",
+      "short_name": "Be Civil",
+      "violation_reason": "Be Civil",
+      "created_utc": 1652983829,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_1.3A_be_civil\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_2.3A_poster_requirements)",
+      "short_name": "Poster Requirements",
+      "violation_reason": "Rule 2/Accept your judgement/Judgment Bot Reply",
+      "created_utc": 1652983829,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_2.3A_poster_requirements\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_3.3A_no_violence)",
+      "short_name": "No Violence",
+      "violation_reason": "No Violence",
+      "created_utc": 1652983829,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_3.3A_no_violence\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_4.3A_no_shitposts_or_ai_generated_content)",
+      "short_name": "No Shitposts or AI",
+      "violation_reason": "No Shitposts",
+      "created_utc": 1652983829,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_4.3A_no_shitposts_or_ai_generated_content\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_5.3A_banned_topics)",
+      "short_name": "Banned Topics",
+      "violation_reason": "Includes a retired topic",
+      "created_utc": 1753803449,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_5.3A_banned_topics\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_6.3A_post_interpersonal_conflicts)",
+      "short_name": "Posts Must Contain an Interpersonal Conflict",
+      "violation_reason": "Posts Must Contain an Interpersonal Conflict",
+      "created_utc": 1753803492,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_6.3A_post_interpersonal_conflicts\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_7.3A_updates_and_meta_posts_are_restricted)",
+      "short_name": "Updates and META Posts are Restricted",
+      "violation_reason": "Unapproved update/post exceeds character limit/post includes screenshot of text",
+      "created_utc": 1753803550,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_7.3A_updates_and_meta_posts_are_restricted\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Review the rules here](https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_8.3A_no_partings.2Frelationship.2Fsex.2Freproductive_autonomy_posts)",
+      "short_name": "No Partings/Relationship/Sex/Reproductive Autonomy Posts",
+      "violation_reason": "No Partings/Relationship/Sex/Reproductive Autonomy Posts",
+      "created_utc": 1753803592,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://sh.reddit.com/r/AmItheAsshole/wiki/rules/#wiki_rule_8.3A_no_partings.2Frelationship.2Fsex.2Freproductive_autonomy_posts\"&gt;Review the rules here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "If your content is egregiously inappropriate, or not fit for purpose in this sub, we reserve the right to practice discretion beyond the outlined rules.",
+      "short_name": "Mod Discretion",
+      "violation_reason": "No AI",
+      "created_utc": 1753803815,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If your content is egregiously inappropriate, or not fit for purpose in this sub, we reserve the right to practice discretion beyond the outlined rules.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "https://www.reddit.com/r/AmItheAsshole/wiki/faq",
+      "short_name": "Review the FAQ",
+      "violation_reason": "No politics/debate/revenge/medical conflicts",
+      "created_utc": 1753803849,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/AmItheAsshole/wiki/faq\"&gt;https://www.reddit.com/r/AmItheAsshole/wiki/faq&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "--",
+      "violation_reason": "Never Delete an Active Discussion",
+      "created_utc": 1754144933,
+      "priority": 10
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

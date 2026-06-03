@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.766,
+  "f1": 0.7641,
+  "precision": 0.7703,
+  "recall": 0.758,
+  "cohens_kappa": 0.532,
+  "tp": 379,
+  "fp": 113,
+  "tn": 387,
+  "fn": 121,
+  "unparseable": 0,
+  "total_evaluated": 1000,
+  "total_attempted": 1000,
+  "auroc": 0.8382,
+  "run_tag": "pooled_all",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "news",
+  "template": "pooled",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "epochs": 1,
+  "eval_seconds": 22.8,
+  "engine": "vllm",
+  "auroc_direct": 0.8382,
+  "auroc_inversion_applied": false,
+  "auroc_note": "retrofitted via max(direct, 1-direct) on pooled_all; direct=raw AUROC from confidence_removed, flipped if <0.5",
+  "accuracy_ci": [
+    0.738,
+    0.791
+  ],
+  "f1_ci": [
+    0.7337,
+    0.7925
+  ],
+  "cohens_kappa_ci": [
+    0.4759,
+    0.5823
+  ],
+  "auroc_ci": [
+    0.8123,
+    0.8617
+  ],
+  "bootstrap_n": 1000,
+  "bootstrap_seed": 42
+}

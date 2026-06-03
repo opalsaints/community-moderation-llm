@@ -1,0 +1,28 @@
+{
+  "sub": "Games",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 13,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5286,
+    "tp": 981,
+    "fp": 755,
+    "tn": 3251,
+    "fn": 3013
+  },
+  "test": {
+    "accuracy": 0.5105,
+    "f1_removed": 0.3244,
+    "f1_macro": 0.4703,
+    "kappa": 0.0243,
+    "precision": 0.5305,
+    "recall": 0.2336,
+    "balanced_accuracy": 0.5122,
+    "tp": 235,
+    "fp": 208,
+    "tn": 786,
+    "fn": 771
+  }
+}

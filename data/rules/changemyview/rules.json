@@ -1,0 +1,244 @@
+{
+  "rules": [
+    {
+      "kind": "link",
+      "description": "Explain the reasoning behind your view, not just what that view is (500+ human-generated characters required).   [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_a)",
+      "short_name": "Rule A - Doesn't Explain View ",
+      "violation_reason": "Rule A - Doesn't Explain View ",
+      "created_utc": 1652994918,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Explain the reasoning behind your view, not just what that view is (500+ human-generated characters required).   &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_a\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "You must personally hold the view and demonstrate that you are open to it changing. A post cannot be on behalf of others, playing devil's advocate, as any entity other than yourself, or 'soapboxing'. Posts by throwaway accounts must be approved through modmail.  [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_b)",
+      "short_name": "Rule B - 3rd Party/Devils Advocate/Soapboxing",
+      "violation_reason": "Rule B - 3rd Party/Devils Advocate/Soapboxing (OPs Only)",
+      "created_utc": 1652994918,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;You must personally hold the view and demonstrate that you are open to it changing. A post cannot be on behalf of others, playing devil&amp;#39;s advocate, as any entity other than yourself, or &amp;#39;soapboxing&amp;#39;. Posts by throwaway accounts must be approved through modmail.  &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_b\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Submission titles must adequately sum up your view and include \"CMV:\" at the beginning. \nPosts with misleading/overly-simplistic titles or titles that contain spoilers may be removed.  [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_c)",
+      "short_name": "Rule C - Unclear/Improper Title",
+      "violation_reason": "Rule C - Unclear/Improper Title",
+      "created_utc": 1652994918,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Submission titles must adequately sum up your view and include &amp;quot;CMV:&amp;quot; at the beginning. \nPosts with misleading/overly-simplistic titles or titles that contain spoilers may be removed.  &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_c\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Posts cannot express a neutral stance, a stance regarding transgender topics, suggest harm against a specific person, be self-promotional, or discuss this subreddit (visit r/ideasforcmv instead). [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_d)",
+      "short_name": "Rule D - Neutral/Transgender/Harm a specific person/Promo/Meta",
+      "violation_reason": "Rule D - Neutral/Transgender/Harm a specific person/Promo/Meta",
+      "created_utc": 1652994918,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Posts cannot express a neutral stance, a stance regarding transgender topics, suggest harm against a specific person, be self-promotional, or discuss this subreddit (visit &lt;a href=\"/r/ideasforcmv\"&gt;r/ideasforcmv&lt;/a&gt; instead). &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_d\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Only post if you are willing to have a conversation with those who reply to you, and are available to do so within 3 hours after posting. \nIf you haven't replied during this time, your post will be removed.  [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_e)",
+      "short_name": "Rule E - No/Minimal Replies from OP in 3 hours",
+      "violation_reason": "Rule E - No/Minimal Replies from OP in 3 hours",
+      "created_utc": 1652994918,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Only post if you are willing to have a conversation with those who reply to you, and are available to do so within 3 hours after posting. \nIf you haven&amp;#39;t replied during this time, your post will be removed.  &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_e\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Direct responses to a CMV post must challenge at least one aspect of OP\u2019s stated view (however minor), unless they are asking a clarifying question.   [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_1)",
+      "short_name": "Rule 1 - Doesn't Challenge OP (top-level only)",
+      "violation_reason": "Rule 1 - Doesn't Challenge OP",
+      "created_utc": 1652994918,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Direct responses to a CMV post must challenge at least one aspect of OP\u2019s stated view (however minor), unless they are asking a clarifying question.   &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_1\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Don't be rude or hostile to other users.  Your comment will be removed even if the rest of it is solid. 'They started it' is not an excuse. You should report it, not respond to it.  [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_2)",
+      "short_name": "Rule 2 - Rude/Hostile Comment",
+      "violation_reason": "Rule 2 - Rude/Hostile Comment",
+      "created_utc": 1652994918,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Don&amp;#39;t be rude or hostile to other users.  Your comment will be removed even if the rest of it is solid. &amp;#39;They started it&amp;#39; is not an excuse. You should report it, not respond to it.  &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_2\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Refrain from accusing OP or anyone else of being unwilling to change their view, of using AI to generate their post or comment, of lying, or of arguing in bad faith. If you are unsure whether someone is genuine, ask clarifying questions (see: socratic method). If you think they are still exhibiting ill behaviour, please message us.  [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_3)",
+      "short_name": "Rule 3 - Bad Faith Accusation",
+      "violation_reason": "Rule 3 - Bad Faith Accusation",
+      "created_utc": 1652994918,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Refrain from accusing OP or anyone else of being unwilling to change their view, of using AI to generate their post or comment, of lying, or of arguing in bad faith. If you are unsure whether someone is genuine, ask clarifying questions (see: socratic method). If you think they are still exhibiting ill behaviour, please message us.  &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_3\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Award a delta if you've acknowledged a change in your view. Do not use deltas for any other purpose. You must include an explanation of the change along with the delta so we know it's genuine. Delta abuse includes sarcastic deltas, joke deltas, super-upvote deltas, etc.  [See the wiki for more information](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_4)",
+      "short_name": "Rule 4 - Delta Abuse/Misuse or Should Award Delta",
+      "violation_reason": "Rule 4 - Delta Abuse/Misuse",
+      "created_utc": 1652994918,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Award a delta if you&amp;#39;ve acknowledged a change in your view. Do not use deltas for any other purpose. You must include an explanation of the change along with the delta so we know it&amp;#39;s genuine. Delta abuse includes sarcastic deltas, joke deltas, super-upvote deltas, etc.  &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_4\"&gt;See the wiki for more information&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Comments must contain human-generated content and contribute meaningfully to the conversation. Comments that are only links, jokes, or \"written upvotes\" will be removed. Humor and affirmations of agreement can be contained within more substantial comments. [See the wiki for more information.](https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_5)",
+      "short_name": "Rule 5 - Doesn't Contribute Meaningfully ",
+      "violation_reason": "Rule 5 - Doesn't Contribute Meaningfully ",
+      "created_utc": 1652994918,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Comments must contain human-generated content and contribute meaningfully to the conversation. Comments that are only links, jokes, or &amp;quot;written upvotes&amp;quot; will be removed. Humor and affirmations of agreement can be contained within more substantial comments. &lt;a href=\"https://www.reddit.com/r/changemyview/wiki/rules/#wiki_rule_5\"&gt;See the wiki for more information.&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Posts may be removed if they are substantially similar to an active post from the past 48 hours. Similar topics are those where the same arguments, reasoning, and evidence would likely be used, even if worded differently or taking the opposite stance.",
+      "short_name": "Topic Fatigue (48h)",
+      "violation_reason": "Topic Fatigue (48h) - Please provide the title of the other post in a custom report",
+      "created_utc": 1755625592,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Posts may be removed if they are substantially similar to an active post from the past 48 hours. Similar topics are those where the same arguments, reasoning, and evidence would likely be used, even if worded differently or taking the opposite stance.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Any use of AI-generated text must be disclosed, and the majority of any comment or post must still be written by the user. ",
+      "short_name": "AI-Generated Content ",
+      "violation_reason": "AI-Generated Content (Undisclosed/Excessive)",
+      "created_utc": 1770229259,
+      "priority": 11,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Any use of AI-generated text must be disclosed, and the majority of any comment or post must still be written by the user. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

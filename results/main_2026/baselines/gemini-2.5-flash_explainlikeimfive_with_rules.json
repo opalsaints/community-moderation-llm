@@ -1,0 +1,50 @@
+{
+ "accuracy": 0.6325,
+ "f1": 0.6664,
+ "precision": 0.6132,
+ "recall": 0.7296,
+ "tp": 734,
+ "fp": 463,
+ "tn": 531,
+ "fn": 272,
+ "unparseable": 0,
+ "total_evaluated": 2000,
+ "total_attempted": 2000,
+ "model": "gemini-2.5-flash",
+ "subreddit": "explainlikeimfive",
+ "condition": "with_rules",
+ "elapsed_seconds": 1952.1,
+ "samples_per_second": 1.02,
+ "engine": "vertex_ai",
+ "constrained_decoding": true,
+ "constrained_method": "text/x.enum",
+ "thinking_budget": 0,
+ "labels": "True/False",
+ "api_errors": 0,
+ "confidence_mean": 0.5975,
+ "confidence_min": 0.0002,
+ "confidence_max": 1.0,
+ "confidence_count": 2000,
+ "cohens_kappa": 0.2641,
+ "auroc": 0.6894,
+ "auroc_direct": 0.6894,
+ "auroc_inversion_applied": false,
+ "accuracy_ci": [
+  0.612,
+  0.6525
+ ],
+ "f1_ci": [
+  0.6435,
+  0.6884
+ ],
+ "cohens_kappa_ci": [
+  0.2244,
+  0.3035
+ ],
+ "auroc_ci": [
+  0.6669,
+  0.7122
+ ],
+ "bootstrap_n": 1000,
+ "bootstrap_seed": 42
+}

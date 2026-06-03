@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.835,
+  "f1": 0.8321,
+  "precision": 0.8468,
+  "recall": 0.818,
+  "cohens_kappa": 0.67,
+  "tp": 409,
+  "fp": 74,
+  "tn": 426,
+  "fn": 91,
+  "unparseable": 0,
+  "total_evaluated": 1000,
+  "total_attempted": 1000,
+  "auroc": 0.905,
+  "run_tag": "pooled_all",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "AmItheAsshole",
+  "template": "pooled",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "epochs": 1,
+  "eval_seconds": 21.0,
+  "engine": "vllm",
+  "auroc_direct": 0.905,
+  "auroc_inversion_applied": false,
+  "auroc_note": "retrofitted via max(direct, 1-direct) on pooled_all; direct=raw AUROC from confidence_removed, flipped if <0.5",
+  "accuracy_ci": [
+    0.811,
+    0.857
+  ],
+  "f1_ci": [
+    0.8042,
+    0.8557
+  ],
+  "cohens_kappa_ci": [
+    0.6217,
+    0.7138
+  ],
+  "auroc_ci": [
+    0.8847,
+    0.9241
+  ],
+  "bootstrap_n": 1000,
+  "bootstrap_seed": 42
+}

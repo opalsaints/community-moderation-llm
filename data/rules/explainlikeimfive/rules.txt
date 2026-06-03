@@ -1,0 +1,51 @@
+1. Be Civil: Stay respectful, polite, and friendly. ELI5 is a for requesting help understanding complex concepts and sharing explanations [without fear of judgement](/r/explainlikeimfive/comments/j28z5/welcome/). Don't insult people or their good intentions in a post, comment, or otherwise, even if a person seems rude or ill-informed. Remember the positive spirit of ELI5. 
+
+This includes plagiarism - acknowledge your sources! 
+
+Use of bigoted slurs, directed at other users or not, is uncivil.
+2. All submissions must seek objective explanations: ELI5 is not meant for any question that you may have. It is meant for simplifying complex *concepts*. 
+
+Notably, posts will be immediately removed that ask for:
+
+- Information about a specific issue (personal experience, legal/relationship questions, medical questions, etc.)
+- Subjective/speculative replies
+- Straightforward answers/facts
+- Recent/current events
+- Religion/Politics
+- Hypotheticals
+- Reddit questions (itself/help). 
+- Whole topic overviews
+- Business/Group/Individual motivations
+3. Top-level comments must be written explanations: Replies to OP must be written explanations or relevant follow-up questions. They may not be jokes, anecdotes, etc. Short/succinct answers are not explanations, even if factually correct. 
+
+Links to outside sources are allowed and encouraged, but must include an original explanation (not just quoted text) or summary. 
+Links to relevant previous ELI5 posts or highly relevant other subreddits may be excepted.
+
+No plagiarism. All quoted text must be cited.
+No Bots/GPT
+
+This list is not comprehensive
+4. Explain for laypeople (but not actual 5-year-olds): Unless OP states otherwise, assume no knowledge beyond a typical secondary education program. Avoid unexplained technical terms. Don't condescend; "like I'm five" is a figure of speech meaning "keep it clear and simple."
+5. ELI5 is for factual information, not opinions: All comments must explain, ask about, correct or address facts. Trying to change someone's opinion or influence them with yours is not appropriate.
+
+
+If you are not able to submit, discuss or correct factual information without implicitly or explicitly involving your personal view on the matter, do not post.
+6. Loaded questions are not allowed: A loaded question presumes a controversial or not obviously true statement as fact. "ELI5: Why was Obama the president when he wasn't born in the US?" is loaded. "ELI5: The controversy about where Obama was born" is a non-loaded way to ask about the same topic.
+
+If your question boils down to: "Why isn't this thing I believe (or is self evidently true) the case?" your question is loaded and belongs in another subreddit.
+7. Search before posting; don't repeat old posts: To avoid repeats, search key words ("storm" for "How do Thunderstorms Form?"), not the whole title. If you found only explanations that weren't clear on your point, explain that, and state what you're still trying to understand.
+
+“Old posts” refers to questions older than one year. If there are posts on the topic in that timeframe you must explain why those posts do not answer the question. 
+
+You can read more on our reposts policy [here](https://www.reddit.com/r/explainlikeimfive/wiki/reposts).
+8. Don't guess: If you don't know how to explain something, you don't need to reply. If you have a partly educated guess, only comment on the parts you are sure of.
+9. Don't try to trick the bot: If the automatic moderator removes your post, read the whole message it gives you, and follow its advice. It's there to help, not to be evaded — evasion will result in a ban.
+10. Posts must begin with "ELI5:": This is meant to help identify ELI5 posts on the frontpage or /r/all or any other collection. 
+---
+Questions *must* be clear from the post title. If you need to explain it in the text body, you probably need to rephrase. 
+---
+
+Moderation decisions are ultimately left up to the discretion of the ELI5 modteam. Do not try to find loopholes in the rules and sneak through them. Above all else, respect the spirit of the subreddit.
+11. Link to the Detailed Rules: https://www.reddit.com/r/explainlikeimfive/wiki/detailed_rules/
+
+Here is a link to the detailed rules which are not character constrained. The above rules are a summary.

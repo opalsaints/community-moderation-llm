@@ -1,0 +1,158 @@
+{
+  "sub": "TwoXChromosomes",
+  "run_tag": "r4_stacked",
+  "n_predictions": 2000,
+  "natural_rate": 0.024,
+  "n_bootstrap": 1000,
+  "seed": 42,
+  "rates": {
+    "0.01": {
+      "accuracy": {
+        "mean": 0.7671,
+        "ci_low": 0.7639,
+        "ci_high": 0.7689
+      },
+      "f1_macro": {
+        "mean": 0.4661,
+        "ci_low": 0.453,
+        "ci_high": 0.4736
+      },
+      "f1_removed": {
+        "mean": 0.0652,
+        "ci_low": 0.0405,
+        "ci_high": 0.0794
+      },
+      "kappa": {
+        "mean": 0.047,
+        "ci_low": 0.0218,
+        "ci_high": 0.0614
+      },
+      "precision": {
+        "mean": 0.034,
+        "ci_low": 0.0211,
+        "ci_high": 0.0413
+      },
+      "recall": {
+        "mean": 0.8167,
+        "ci_low": 0.5,
+        "ci_high": 1.0
+      },
+      "rate": 0.01,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1004,
+      "label": "0.01"
+    },
+    "0.05": {
+      "accuracy": {
+        "mean": 0.7689,
+        "ci_low": 0.7639,
+        "ci_high": 0.7734
+      },
+      "f1_macro": {
+        "mean": 0.561,
+        "ci_low": 0.5455,
+        "ci_high": 0.5747
+      },
+      "f1_removed": {
+        "mean": 0.259,
+        "ci_low": 0.2305,
+        "ci_high": 0.284
+      },
+      "kappa": {
+        "mean": 0.1914,
+        "ci_low": 0.1606,
+        "ci_high": 0.2185
+      },
+      "precision": {
+        "mean": 0.154,
+        "ci_low": 0.1375,
+        "ci_high": 0.1685
+      },
+      "recall": {
+        "mean": 0.8128,
+        "ci_low": 0.7115,
+        "ci_high": 0.9038
+      },
+      "rate": 0.05,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1046,
+      "label": "0.05"
+    },
+    "0.10": {
+      "accuracy": {
+        "mean": 0.7712,
+        "ci_low": 0.7645,
+        "ci_high": 0.7772
+      },
+      "f1_macro": {
+        "mean": 0.6361,
+        "ci_low": 0.6205,
+        "ci_high": 0.6497
+      },
+      "f1_removed": {
+        "mean": 0.4143,
+        "ci_low": 0.3868,
+        "ci_high": 0.4384
+      },
+      "kappa": {
+        "mean": 0.3122,
+        "ci_low": 0.2806,
+        "ci_high": 0.3398
+      },
+      "precision": {
+        "mean": 0.278,
+        "ci_low": 0.2611,
+        "ci_high": 0.2927
+      },
+      "recall": {
+        "mean": 0.8127,
+        "ci_low": 0.7455,
+        "ci_high": 0.8727
+      },
+      "rate": 0.1,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1104,
+      "label": "0.10"
+    },
+    "natural": {
+      "accuracy": {
+        "mean": 0.7677,
+        "ci_low": 0.7642,
+        "ci_high": 0.7711
+      },
+      "f1_macro": {
+        "mean": 0.5038,
+        "ci_low": 0.4908,
+        "ci_high": 0.5161
+      },
+      "f1_removed": {
+        "mean": 0.1418,
+        "ci_low": 0.1176,
+        "ci_high": 0.1649
+      },
+      "kappa": {
+        "mean": 0.1032,
+        "ci_low": 0.078,
+        "ci_high": 0.1273
+      },
+      "precision": {
+        "mean": 0.0777,
+        "ci_low": 0.0645,
+        "ci_high": 0.0902
+      },
+      "recall": {
+        "mean": 0.8147,
+        "ci_low": 0.6667,
+        "ci_high": 0.9583
+      },
+      "rate": 0.024,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1018,
+      "label": "natural"
+    }
+  }
+}

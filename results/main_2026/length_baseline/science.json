@@ -1,0 +1,28 @@
+{
+  "sub": "science",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 14,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5445,
+    "tp": 1457,
+    "fp": 1105,
+    "tn": 2901,
+    "fn": 2537
+  },
+  "test": {
+    "accuracy": 0.5315,
+    "f1_removed": 0.4234,
+    "f1_macro": 0.5144,
+    "kappa": 0.0651,
+    "precision": 0.5557,
+    "recall": 0.3419,
+    "balanced_accuracy": 0.5326,
+    "tp": 344,
+    "fp": 275,
+    "tn": 719,
+    "fn": 662
+  }
+}

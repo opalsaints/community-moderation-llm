@@ -1,0 +1,6 @@
+# Local-machine dependencies: data preparation, the Gemini baseline, and
+# analysis/figures. The metrics code (src/analysis/compute_metrics.py) uses
+# only the Python standard library.
+
+google-genai>=1.0.0      # Gemini 2.5 Flash baseline (src/eval/gemini_eval.py)
+matplotlib>=3.7.0        # figures (src/analysis/generate_figures.py and make_*.py)

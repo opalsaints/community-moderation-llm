@@ -1,0 +1,190 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "Posts must include:\n- Ages, genders and relationship length\n- Include a TL;DR! - a brief summary at the end of your post. No \"See title\".**\n- Sufficient spelling, grammar and formatting to be readable",
+      "short_name": "Required element",
+      "violation_reason": "Missing required elements (ages, genders, tl;dr, length, readability)",
+      "created_utc": 1652980125,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Posts must include:\n- Ages, genders and relationship length\n- Include a TL;DR! - a brief summary at the end of your post. No &amp;quot;See title&amp;quot;.**\n- Sufficient spelling, grammar and formatting to be readable&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Posts must be:\n\n- First person, not for someone else\n- Specific, clearly stated questions about your situation, not general, polling etc.\n- A desire for input, not just to vent",
+      "short_name": "Acceptable Question types",
+      "violation_reason": "Not acceptable question type",
+      "created_utc": 1652980125,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Posts must be:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;First person, not for someone else&lt;/li&gt;\n&lt;li&gt;Specific, clearly stated questions about your situation, not general, polling etc.&lt;/li&gt;\n&lt;li&gt;A desire for input, not just to vent&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "- No general questions, polling or \u2018opinion gathering\u2019.\n- No meta complaints (about the sub). If you are unhappy here, reddit elsewhere.\n- No questions directed at a single gender or group.\n- No politics!\n- No gift or activity questions.\n- Updates -\"UPDATE\" needs to be in the title. Link to the previous post, which cannot be deleted or removed. Original post more than 48 hours old. One update only. ",
+      "short_name": "Not from list of bad questions",
+      "violation_reason": "Bad question",
+      "created_utc": 1652980125,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;No general questions, polling or \u2018opinion gathering\u2019.&lt;/li&gt;\n&lt;li&gt;No meta complaints (about the sub). If you are unhappy here, reddit elsewhere.&lt;/li&gt;\n&lt;li&gt;No questions directed at a single gender or group.&lt;/li&gt;\n&lt;li&gt;No politics!&lt;/li&gt;\n&lt;li&gt;No gift or activity questions.&lt;/li&gt;\n&lt;li&gt;Updates -&amp;quot;UPDATE&amp;quot; needs to be in the title. Link to the previous post, which cannot be deleted or removed. Original post more than 48 hours old. One update only. &lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "- Do not feed the trolls. Use the report button\n- No abuse and victim blaming\n- Do not use uncivil, negatively gendered, ableist, sexist or bigoted language.\n- Avoid tangential discussions,\n- No photos, links, or videos\n- Do not post or request personal information\n- Do not mention upvotes or downvotes. We do not allow vote manipulation.\n- No AI-Generated advice\n- Do not use the sub to push your personal agenda\n- Comments must contain constructive and helpful advice.",
+      "short_name": "Unacceptable behaviour &amp; content",
+      "violation_reason": "Unacceptable behaviour &amp; content",
+      "created_utc": 1652980125,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;Do not feed the trolls. Use the report button&lt;/li&gt;\n&lt;li&gt;No abuse and victim blaming&lt;/li&gt;\n&lt;li&gt;Do not use uncivil, negatively gendered, ableist, sexist or bigoted language.&lt;/li&gt;\n&lt;li&gt;Avoid tangential discussions,&lt;/li&gt;\n&lt;li&gt;No photos, links, or videos&lt;/li&gt;\n&lt;li&gt;Do not post or request personal information&lt;/li&gt;\n&lt;li&gt;Do not mention upvotes or downvotes. We do not allow vote manipulation.&lt;/li&gt;\n&lt;li&gt;No AI-Generated advice&lt;/li&gt;\n&lt;li&gt;Do not use the sub to push your personal agenda&lt;/li&gt;\n&lt;li&gt;Comments must contain constructive and helpful advice.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We provide instant bans for:\n\n- Advocating, suggesting or justifying violence. Even as a joke.\n- Crossposting content from here to another sub, including your own page\n- Do not repost removed material unless specifically instructed to edit and repost\n- Egregious bigotry and abusiveness\n- Brigading",
+      "short_name": "Instant bans",
+      "violation_reason": "Instant bans: violence, crossposting, reposting removed, bigotry, serious abuse",
+      "created_utc": 1652980125,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We provide instant bans for:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Advocating, suggesting or justifying violence. Even as a joke.&lt;/li&gt;\n&lt;li&gt;Crossposting content from here to another sub, including your own page&lt;/li&gt;\n&lt;li&gt;Do not repost removed material unless specifically instructed to edit and repost&lt;/li&gt;\n&lt;li&gt;Egregious bigotry and abusiveness&lt;/li&gt;\n&lt;li&gt;Brigading&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "- Be respectful to posters and other commenters\n- Focus on helping the OP\n- Use your experience to form advice but put yourself in the place of others as well\n- Thank people for good advice\n- If you are tempted to make an angry reply, use the report button instead",
+      "short_name": "Good behaviour",
+      "violation_reason": "Good behaviour",
+      "created_utc": 1652980125,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;Be respectful to posters and other commenters&lt;/li&gt;\n&lt;li&gt;Focus on helping the OP&lt;/li&gt;\n&lt;li&gt;Use your experience to form advice but put yourself in the place of others as well&lt;/li&gt;\n&lt;li&gt;Thank people for good advice&lt;/li&gt;\n&lt;li&gt;If you are tempted to make an angry reply, use the report button instead&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

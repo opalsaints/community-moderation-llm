@@ -1,0 +1,28 @@
+{
+  "sub": "personalfinance",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 81,
+    "direction": "long_is_removed",
+    "bal_acc": 0.5315,
+    "tp": 991,
+    "fp": 742,
+    "tn": 3264,
+    "fn": 3003
+  },
+  "test": {
+    "accuracy": 0.522,
+    "f1_removed": 0.3277,
+    "f1_macro": 0.4784,
+    "kappa": 0.0473,
+    "precision": 0.5601,
+    "recall": 0.2316,
+    "balanced_accuracy": 0.5238,
+    "tp": 233,
+    "fp": 183,
+    "tn": 811,
+    "fn": 773
+  }
+}

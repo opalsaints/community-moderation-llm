@@ -1,0 +1,158 @@
+{
+  "sub": "aiwars",
+  "run_tag": "r4_stacked",
+  "n_predictions": 1519,
+  "natural_rate": 0.005,
+  "n_bootstrap": 1000,
+  "seed": 42,
+  "rates": {
+    "0.01": {
+      "accuracy": {
+        "mean": 0.8083,
+        "ci_low": 0.8055,
+        "ci_high": 0.8108
+      },
+      "f1_macro": {
+        "mean": 0.4853,
+        "ci_low": 0.4715,
+        "ci_high": 0.4971
+      },
+      "f1_removed": {
+        "mean": 0.0776,
+        "ci_low": 0.0513,
+        "ci_high": 0.1
+      },
+      "kappa": {
+        "mean": 0.0588,
+        "ci_low": 0.032,
+        "ci_high": 0.0817
+      },
+      "precision": {
+        "mean": 0.0409,
+        "ci_low": 0.027,
+        "ci_high": 0.0526
+      },
+      "recall": {
+        "mean": 0.7678,
+        "ci_low": 0.5,
+        "ci_high": 1.0
+      },
+      "rate": 0.01,
+      "n_bootstrap": 1000,
+      "n_in": 1519,
+      "n_resampled_mean": 761,
+      "label": "0.01"
+    },
+    "0.05": {
+      "accuracy": {
+        "mean": 0.807,
+        "ci_low": 0.8008,
+        "ci_high": 0.8121
+      },
+      "f1_macro": {
+        "mean": 0.5881,
+        "ci_low": 0.5664,
+        "ci_high": 0.6053
+      },
+      "f1_removed": {
+        "mean": 0.2878,
+        "ci_low": 0.2476,
+        "ci_high": 0.3196
+      },
+      "kappa": {
+        "mean": 0.2241,
+        "ci_low": 0.1807,
+        "ci_high": 0.2585
+      },
+      "precision": {
+        "mean": 0.1768,
+        "ci_low": 0.1529,
+        "ci_high": 0.1955
+      },
+      "recall": {
+        "mean": 0.7739,
+        "ci_low": 0.65,
+        "ci_high": 0.875
+      },
+      "rate": 0.05,
+      "n_bootstrap": 1000,
+      "n_in": 1519,
+      "n_resampled_mean": 793,
+      "label": "0.05"
+    },
+    "0.10": {
+      "accuracy": {
+        "mean": 0.8052,
+        "ci_low": 0.7969,
+        "ci_high": 0.8136
+      },
+      "f1_macro": {
+        "mean": 0.6625,
+        "ci_low": 0.6416,
+        "ci_high": 0.6832
+      },
+      "f1_removed": {
+        "mean": 0.4431,
+        "ci_low": 0.4056,
+        "ci_high": 0.48
+      },
+      "kappa": {
+        "mean": 0.3501,
+        "ci_low": 0.3074,
+        "ci_high": 0.3922
+      },
+      "precision": {
+        "mean": 0.3106,
+        "ci_low": 0.2871,
+        "ci_high": 0.3333
+      },
+      "recall": {
+        "mean": 0.7731,
+        "ci_low": 0.6905,
+        "ci_high": 0.8571
+      },
+      "rate": 0.1,
+      "n_bootstrap": 1000,
+      "n_in": 1519,
+      "n_resampled_mean": 837,
+      "label": "0.10"
+    },
+    "natural": {
+      "accuracy": {
+        "mean": 0.8086,
+        "ci_low": 0.8058,
+        "ci_high": 0.8098
+      },
+      "f1_macro": {
+        "mean": 0.4671,
+        "ci_low": 0.4529,
+        "ci_high": 0.4735
+      },
+      "f1_removed": {
+        "mean": 0.0406,
+        "ci_low": 0.0134,
+        "ci_high": 0.0526
+      },
+      "kappa": {
+        "mean": 0.0307,
+        "ci_low": 0.0032,
+        "ci_high": 0.0428
+      },
+      "precision": {
+        "mean": 0.0208,
+        "ci_low": 0.0069,
+        "ci_high": 0.027
+      },
+      "recall": {
+        "mean": 0.7682,
+        "ci_low": 0.25,
+        "ci_high": 1.0
+      },
+      "rate": 0.005,
+      "n_bootstrap": 1000,
+      "n_in": 1519,
+      "n_resampled_mean": 757,
+      "label": "natural"
+    }
+  }
+}

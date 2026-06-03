@@ -1,0 +1,50 @@
+{
+ "accuracy": 0.5478,
+ "f1": 0.5434,
+ "precision": 0.5518,
+ "recall": 0.5353,
+ "tp": 538,
+ "fp": 437,
+ "tn": 557,
+ "fn": 467,
+ "unparseable": 1,
+ "total_evaluated": 1999,
+ "total_attempted": 2000,
+ "model": "gemini-2.5-flash",
+ "subreddit": "science",
+ "condition": "with_rules",
+ "elapsed_seconds": 1810.4,
+ "samples_per_second": 1.1,
+ "engine": "vertex_ai",
+ "constrained_decoding": true,
+ "constrained_method": "text/x.enum",
+ "thinking_budget": 0,
+ "labels": "True/False",
+ "api_errors": 0,
+ "confidence_mean": 0.4916,
+ "confidence_min": 0.0002,
+ "confidence_max": 0.9999,
+ "confidence_count": 1999,
+ "cohens_kappa": 0.0957,
+ "auroc": 0.5683,
+ "auroc_direct": 0.5683,
+ "auroc_inversion_applied": false,
+ "accuracy_ci": [
+  0.5261,
+  0.571
+ ],
+ "f1_ci": [
+  0.5171,
+  0.5714
+ ],
+ "cohens_kappa_ci": [
+  0.0527,
+  0.142
+ ],
+ "auroc_ci": [
+  0.5433,
+  0.5924
+ ],
+ "bootstrap_n": 1000,
+ "bootstrap_seed": 42
+}

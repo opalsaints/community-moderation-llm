@@ -1,0 +1,21 @@
+{
+  "experiment": "2026 main study",
+  "count": 15,
+  "subreddits": [
+    "AskHistorians",
+    "askscience",
+    "science",
+    "legaladvice",
+    "personalfinance",
+    "relationships",
+    "AmItheAsshole",
+    "changemyview",
+    "explainlikeimfive",
+    "Games",
+    "news",
+    "TwoXChromosomes",
+    "politics",
+    "antiai",
+    "aiwars"
+  ]
+}

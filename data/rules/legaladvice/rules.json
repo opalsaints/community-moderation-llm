@@ -1,0 +1,244 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "Anecdotes are not permitted. Neither is advice that encourages someone to break the law.  Nor is \"get a lawyer\" a sufficient response.\n\nThere's a pinned post at the top of the subreddit specifically addressing this rule. We will absolutely ban you for commenting without answering the legal question.",
+      "short_name": "All responses must offer an answer to the legal question posed by the OP. We enforce this with bans.",
+      "violation_reason": "Off-topic, anecdotal, or generally unhelpful",
+      "created_utc": 1652987150,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Anecdotes are not permitted. Neither is advice that encourages someone to break the law.  Nor is &amp;quot;get a lawyer&amp;quot; a sufficient response.&lt;/p&gt;\n\n&lt;p&gt;There&amp;#39;s a pinned post at the top of the subreddit specifically addressing this rule. We will absolutely ban you for commenting without answering the legal question.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Posts or submissions that ask for or contain information that could be used to identify either party are subject to immediate removal.",
+      "short_name": "Personally Identifying Information",
+      "violation_reason": "Personally Identifying Information",
+      "created_utc": 1652987150,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Posts or submissions that ask for or contain information that could be used to identify either party are subject to immediate removal.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We do not allow referrals to particular lawyers, law firms, or other businesses.",
+      "short_name": "Advertising or Recommending a Lawyer or Business",
+      "violation_reason": "Advertising or recommending a lawyer or business",
+      "created_utc": 1652987150,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We do not allow referrals to particular lawyers, law firms, or other businesses.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "All discussions must stay on the subreddit for everyone's protection.",
+      "short_name": "Do not request or send a PM",
+      "violation_reason": "Requesting or sending a PM",
+      "created_utc": 1652987150,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;All discussions must stay on the subreddit for everyone&amp;#39;s protection.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "You must include your location in the following format: location: yourlocationhere . It must be that exact format, and it must be in the body of your post.",
+      "short_name": "Include your location",
+      "violation_reason": "No location",
+      "created_utc": 1722472629,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;You must include your location in the following format: location: yourlocationhere . It must be that exact format, and it must be in the body of your post.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Read our full list of rules here: https://www.reddit.com/r/legaladvice/wiki/index#wiki_general_rules",
+      "short_name": "Read our full list of rules",
+      "violation_reason": "Read our full list of rules",
+      "created_utc": 1722472672,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Read our full list of rules here: &lt;a href=\"https://www.reddit.com/r/legaladvice/wiki/index#wiki_general_rules\"&gt;https://www.reddit.com/r/legaladvice/wiki/index#wiki_general_rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "This subreddit is for simple legal questions. We can't help with preparing a defense, legal research, etc. We cannot review contracts, plan your defense, or give you specific advice on exactly how to present your case with the court. You need a local attorney for that. Additionally, we do not accept medical malpractice questions.",
+      "short_name": "This subreddit is for simple legal questions.",
+      "violation_reason": "We can only answer simple legal questions here.",
+      "created_utc": 1759758121,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This subreddit is for simple legal questions. We can&amp;#39;t help with preparing a defense, legal research, etc. We cannot review contracts, plan your defense, or give you specific advice on exactly how to present your case with the court. You need a local attorney for that. Additionally, we do not accept medical malpractice questions.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "No LLMs. No ChatGPT. Don't recommend it, don't use it to answer questions, and don't use it to compose your modmail when you get banned for using it. Using it to compose questions is generally ok. \n\nWe will permanently and irrevocably ban you for this.",
+      "short_name": "NO LLMS",
+      "violation_reason": "Absolutely no LLMs",
+      "created_utc": 1759758198,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;No LLMs. No ChatGPT. Don&amp;#39;t recommend it, don&amp;#39;t use it to answer questions, and don&amp;#39;t use it to compose your modmail when you get banned for using it. Using it to compose questions is generally ok. &lt;/p&gt;\n\n&lt;p&gt;We will permanently and irrevocably ban you for this.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Any post and any comment can be removed by the mods at any time if the mods decide the post/comment is or has the potential to be disruptive or is otherwise inappropriate.",
+      "short_name": "Mods can remove things we deem inappropriate or disruptive",
+      "violation_reason": "Inappropriate or disruptive",
+      "created_utc": 1759758270,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Any post and any comment can be removed by the mods at any time if the mods decide the post/comment is or has the potential to be disruptive or is otherwise inappropriate.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "To expand on this, we additionally do not allow anyone but the immediately involved parties to ask custody related questions. Not friends, not significant others, not grandparents. Reddit is free.",
+      "short_name": "Posts must be about a real scenario that you or someone you know is facing.",
+      "violation_reason": "Not real or does not involve you",
+      "created_utc": 1759758460,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;To expand on this, we additionally do not allow anyone but the immediately involved parties to ask custody related questions. Not friends, not significant others, not grandparents. Reddit is free.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "A legal question is one that can be answered with the law, be it a law or ordinance, or caselaw.",
+      "short_name": "Post must contain a legal question",
+      "violation_reason": "You must include a legal question.",
+      "created_utc": 1759768516,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;A legal question is one that can be answered with the law, be it a law or ordinance, or caselaw.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Laws are different everywhere. We can only help with legal problems in the US or Canada because we have no regular, reliable commenters from other countries.  For other countries, please search for an appropriate subreddit.",
+      "short_name": "US and Canada only",
+      "violation_reason": "Location not US or Canada",
+      "created_utc": 1772130987,
+      "priority": 11,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Laws are different everywhere. We can only help with legal problems in the US or Canada because we have no regular, reliable commenters from other countries.  For other countries, please search for an appropriate subreddit.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

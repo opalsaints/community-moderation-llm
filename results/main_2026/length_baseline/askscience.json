@@ -1,0 +1,28 @@
+{
+  "sub": "askscience",
+  "length_unit": "words",
+  "n_train": 4238,
+  "n_test": 1060,
+  "fit_on_train": {
+    "threshold": 39,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5185,
+    "tp": 940,
+    "fp": 876,
+    "tn": 1260,
+    "fn": 1162
+  },
+  "test": {
+    "accuracy": 0.5245,
+    "f1_removed": 0.5088,
+    "f1_macro": 0.524,
+    "kappa": 0.052,
+    "precision": 0.5449,
+    "recall": 0.4771,
+    "balanced_accuracy": 0.5261,
+    "tp": 261,
+    "fp": 218,
+    "tn": 295,
+    "fn": 286
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "sub": "antiai",
+  "run_tag": "r4_stacked",
+  "n_predictions": 2000,
+  "natural_rate": 0.012,
+  "n_bootstrap": 1000,
+  "seed": 42,
+  "rates": {
+    "0.01": {
+      "accuracy": {
+        "mean": 0.8463,
+        "ci_low": 0.8436,
+        "ci_high": 0.8476
+      },
+      "f1_macro": {
+        "mean": 0.5087,
+        "ci_low": 0.4928,
+        "ci_high": 0.5161
+      },
+      "f1_removed": {
+        "mean": 0.1015,
+        "ci_low": 0.071,
+        "ci_high": 0.1156
+      },
+      "kappa": {
+        "mean": 0.0843,
+        "ci_low": 0.0533,
+        "ci_high": 0.0987
+      },
+      "precision": {
+        "mean": 0.0539,
+        "ci_low": 0.0377,
+        "ci_high": 0.0613
+      },
+      "recall": {
+        "mean": 0.8717,
+        "ci_low": 0.6,
+        "ci_high": 1.0
+      },
+      "rate": 0.01,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1004,
+      "label": "0.01"
+    },
+    "0.05": {
+      "accuracy": {
+        "mean": 0.8472,
+        "ci_low": 0.8423,
+        "ci_high": 0.8509
+      },
+      "f1_macro": {
+        "mean": 0.6372,
+        "ci_low": 0.6186,
+        "ci_high": 0.6505
+      },
+      "f1_removed": {
+        "mean": 0.3612,
+        "ci_low": 0.3265,
+        "ci_high": 0.3858
+      },
+      "kappa": {
+        "mean": 0.3066,
+        "ci_low": 0.2693,
+        "ci_high": 0.3331
+      },
+      "precision": {
+        "mean": 0.228,
+        "ci_low": 0.2073,
+        "ci_high": 0.2426
+      },
+      "recall": {
+        "mean": 0.8694,
+        "ci_low": 0.7692,
+        "ci_high": 0.9423
+      },
+      "rate": 0.05,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1046,
+      "label": "0.05"
+    },
+    "0.10": {
+      "accuracy": {
+        "mean": 0.8483,
+        "ci_low": 0.8424,
+        "ci_high": 0.8542
+      },
+      "f1_macro": {
+        "mean": 0.7213,
+        "ci_low": 0.706,
+        "ci_high": 0.7358
+      },
+      "f1_removed": {
+        "mean": 0.533,
+        "ci_low": 0.5057,
+        "ci_high": 0.5589
+      },
+      "kappa": {
+        "mean": 0.4582,
+        "ci_low": 0.4272,
+        "ci_high": 0.4876
+      },
+      "precision": {
+        "mean": 0.3844,
+        "ci_low": 0.3678,
+        "ci_high": 0.4
+      },
+      "recall": {
+        "mean": 0.869,
+        "ci_low": 0.8091,
+        "ci_high": 0.9273
+      },
+      "rate": 0.1,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1104,
+      "label": "0.10"
+    },
+    "natural": {
+      "accuracy": {
+        "mean": 0.8464,
+        "ci_low": 0.8439,
+        "ci_high": 0.8479
+      },
+      "f1_macro": {
+        "mean": 0.5175,
+        "ci_low": 0.5036,
+        "ci_high": 0.5261
+      },
+      "f1_removed": {
+        "mean": 0.1192,
+        "ci_low": 0.0925,
+        "ci_high": 0.1356
+      },
+      "kappa": {
+        "mean": 0.0991,
+        "ci_low": 0.0719,
+        "ci_high": 0.1159
+      },
+      "precision": {
+        "mean": 0.064,
+        "ci_low": 0.0497,
+        "ci_high": 0.0727
+      },
+      "recall": {
+        "mean": 0.8718,
+        "ci_low": 0.6667,
+        "ci_high": 1.0
+      },
+      "rate": 0.012,
+      "n_bootstrap": 1000,
+      "n_in": 2000,
+      "n_resampled_mean": 1006,
+      "label": "natural"
+    }
+  }
+}

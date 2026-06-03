@@ -1,0 +1,226 @@
+{
+  "rules": [
+    {
+      "kind": "link",
+      "description": "Posts must be a personal finance question or discussion with a descriptive title.\n\nWe don't allow:\n\n* Polls, surveys, or requests for personal data, experiences, or other types of self-reporting\n* Success stories or thanks (use weekday/weekend thread)\n* Several [disallowed topics](http://bit.ly/3mxqnSl)\n* Meta posts\n* IAmA/AMA requests or posts\n* News without a discussion, quote, or summary\n\nFor more information on the subreddit rules, read the [rules wiki](/r/personalfinance/w/rules).",
+      "short_name": "Submission guidelines",
+      "violation_reason": "Submission guidelines",
+      "created_utc": 1652979978,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Posts must be a personal finance question or discussion with a descriptive title.&lt;/p&gt;\n\n&lt;p&gt;We don&amp;#39;t allow:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Polls, surveys, or requests for personal data, experiences, or other types of self-reporting&lt;/li&gt;\n&lt;li&gt;Success stories or thanks (use weekday/weekend thread)&lt;/li&gt;\n&lt;li&gt;Several &lt;a href=\"http://bit.ly/3mxqnSl\"&gt;disallowed topics&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Meta posts&lt;/li&gt;\n&lt;li&gt;IAmA/AMA requests or posts&lt;/li&gt;\n&lt;li&gt;News without a discussion, quote, or summary&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;For more information on the subreddit rules, read the &lt;a href=\"/r/personalfinance/w/rules\"&gt;rules wiki&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow:\n\n* Promotion of web content, products, services, companies, or anything else owned by you (or anyone affiliated with you), even if not monetized\n* Accounts with promotional profiles or usernames\n* Offering referral, invite, or affiliate links/codes\n* Soliciting business/investors, market research, media requests, or recruiting\n* Repeatedly or prominently stating financial credentials\n* PM/DM requests or offers\n\nRequires pre-approval: open source tools, customer service replies",
+      "short_name": "Self-promotional advertising or soliciting",
+      "violation_reason": "Self-promotional advertising or soliciting",
+      "created_utc": 1652979978,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Promotion of web content, products, services, companies, or anything else owned by you (or anyone affiliated with you), even if not monetized&lt;/li&gt;\n&lt;li&gt;Accounts with promotional profiles or usernames&lt;/li&gt;\n&lt;li&gt;Offering referral, invite, or affiliate links/codes&lt;/li&gt;\n&lt;li&gt;Soliciting business/investors, market research, media requests, or recruiting&lt;/li&gt;\n&lt;li&gt;Repeatedly or prominently stating financial credentials&lt;/li&gt;\n&lt;li&gt;PM/DM requests or offers&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Requires pre-approval: open source tools, customer service replies&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow:\n\n* Circlejerking or karmawhoring\n* Posting just for upvotes or humor\n* Insincerity or dishonesty\n* Trolling, brigading, loaded questions/language, or provoking unproductive conversation\n* Memes or low-effort content\n* Clickbait titles\n* Excessive large, bold, or spaced-out text\n* [Bots](http://bit.ly/3GJH5om) or AI-generated content\n* In-character novelty accounts\n* Insubstantive/ephemeral posts\n* Requesting votes\n* Excessive profanity\n* [Poor reddiquette](http://bit.ly/2vKxaO6)",
+      "short_name": "Unhelpful or disrespectful",
+      "violation_reason": "Unhelpful, disrespectful, or use of AI",
+      "created_utc": 1652979978,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Circlejerking or karmawhoring&lt;/li&gt;\n&lt;li&gt;Posting just for upvotes or humor&lt;/li&gt;\n&lt;li&gt;Insincerity or dishonesty&lt;/li&gt;\n&lt;li&gt;Trolling, brigading, loaded questions/language, or provoking unproductive conversation&lt;/li&gt;\n&lt;li&gt;Memes or low-effort content&lt;/li&gt;\n&lt;li&gt;Clickbait titles&lt;/li&gt;\n&lt;li&gt;Excessive large, bold, or spaced-out text&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"http://bit.ly/3GJH5om\"&gt;Bots&lt;/a&gt; or AI-generated content&lt;/li&gt;\n&lt;li&gt;In-character novelty accounts&lt;/li&gt;\n&lt;li&gt;Insubstantive/ephemeral posts&lt;/li&gt;\n&lt;li&gt;Requesting votes&lt;/li&gt;\n&lt;li&gt;Excessive profanity&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"http://bit.ly/2vKxaO6\"&gt;Poor reddiquette&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow asking for handouts or transactions.  That includes:\n\n* Asking (even indirectly) for gifts, loans, or donations for yourself or on behalf of any organization or person(s)\n* Any mention of a fundraising campaign even without a link\n* Requesting a job\n* Asking for loan cosigners\n* Soliciting for anyone to engage in any kind of transaction",
+      "short_name": "Asking for handouts or transactions",
+      "violation_reason": "Asking for handouts or transactions",
+      "created_utc": 1652979978,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow asking for handouts or transactions.  That includes:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Asking (even indirectly) for gifts, loans, or donations for yourself or on behalf of any organization or person(s)&lt;/li&gt;\n&lt;li&gt;Any mention of a fundraising campaign even without a link&lt;/li&gt;\n&lt;li&gt;Requesting a job&lt;/li&gt;\n&lt;li&gt;Asking for loan cosigners&lt;/li&gt;\n&lt;li&gt;Soliciting for anyone to engage in any kind of transaction&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow legal or business discussions. That includes:\n\n- Discussions that are predominantly legal issues\n- Discussions about starting, funding, or running a business, corporation, partnership, etc.\n- Content better suited for /r/legaladvice, /r/smallbusiness, /r/entrepreneur, or /r/business",
+      "short_name": "Legal or business discussion",
+      "violation_reason": "Legal or business discussion",
+      "created_utc": 1652979978,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow legal or business discussions. That includes:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Discussions that are predominantly legal issues&lt;/li&gt;\n&lt;li&gt;Discussions about starting, funding, or running a business, corporation, partnership, etc.&lt;/li&gt;\n&lt;li&gt;Content better suited for &lt;a href=\"/r/legaladvice\"&gt;/r/legaladvice&lt;/a&gt;, &lt;a href=\"/r/smallbusiness\"&gt;/r/smallbusiness&lt;/a&gt;, &lt;a href=\"/r/entrepreneur\"&gt;/r/entrepreneur&lt;/a&gt;, or &lt;a href=\"/r/business\"&gt;/r/business&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow:\n\n- Moralizing issues\n- Petitions or calls-to-action\n- Political discussions\n- Political baiting\n- Soapboxing\n",
+      "short_name": "Politicizing",
+      "violation_reason": "Politicizing",
+      "created_utc": 1652979978,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Moralizing issues&lt;/li&gt;\n&lt;li&gt;Petitions or calls-to-action&lt;/li&gt;\n&lt;li&gt;Political discussions&lt;/li&gt;\n&lt;li&gt;Political baiting&lt;/li&gt;\n&lt;li&gt;Soapboxing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow:\n\n* Suggesting another user perform an activity that is illegal, unlawful, or fraudulent in most jurisdictions\n* Linking to illegal content or lawbreaking information\n* Asking for advice on any of the above",
+      "short_name": "Lawbreaking information",
+      "violation_reason": "Lawbreaking information",
+      "created_utc": 1652979978,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Suggesting another user perform an activity that is illegal, unlawful, or fraudulent in most jurisdictions&lt;/li&gt;\n&lt;li&gt;Linking to illegal content or lawbreaking information&lt;/li&gt;\n&lt;li&gt;Asking for advice on any of the above&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow:\n\n* Personal attacks\n * Raw criticism without any constructive feedback\n * Name-calling, flaming, shaming, or otherwise harassing another poster (or person being helped)\n * Telling a user to harm themselves or others\n* Abusive language\n * Intentionally rude or very harsh language\n * [Hate speech](/r/personalfinance/wiki/rules#wiki_definitions)\n * Suggesting [sex work](/r/personalfinance/wiki/rules#wiki_definitions) (even indirectly)\n * Retaliating in response to an affront",
+      "short_name": "Personal attack or abusive language",
+      "violation_reason": "Personal attack or abusive language",
+      "created_utc": 1652979978,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Personal attacks\n\n&lt;ul&gt;\n&lt;li&gt;Raw criticism without any constructive feedback&lt;/li&gt;\n&lt;li&gt;Name-calling, flaming, shaming, or otherwise harassing another poster (or person being helped)&lt;/li&gt;\n&lt;li&gt;Telling a user to harm themselves or others&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;li&gt;Abusive language\n\n&lt;ul&gt;\n&lt;li&gt;Intentionally rude or very harsh language&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"/r/personalfinance/wiki/rules#wiki_definitions\"&gt;Hate speech&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Suggesting &lt;a href=\"/r/personalfinance/wiki/rules#wiki_definitions\"&gt;sex work&lt;/a&gt; (even indirectly)&lt;/li&gt;\n&lt;li&gt;Retaliating in response to an affront&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We don't allow personal advice discussions. That includes:\n\n* Content better suited for /r/relationships\n* Recommending a poster end their relationship or start a new relationship\n* Posts about suicide or violence\n* Posts asking for advice on how to convince someone else to change their behavior\n* Relationship drama not essential to a question or discussion\n* Family planning advice, especially unsolicited or flippant\n* Career, job, and education questions\n* Medical advice",
+      "short_name": "Personal advice discussion",
+      "violation_reason": "Personal advice discussion",
+      "created_utc": 1652979978,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We don&amp;#39;t allow personal advice discussions. That includes:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Content better suited for &lt;a href=\"/r/relationships\"&gt;/r/relationships&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Recommending a poster end their relationship or start a new relationship&lt;/li&gt;\n&lt;li&gt;Posts about suicide or violence&lt;/li&gt;\n&lt;li&gt;Posts asking for advice on how to convince someone else to change their behavior&lt;/li&gt;\n&lt;li&gt;Relationship drama not essential to a question or discussion&lt;/li&gt;\n&lt;li&gt;Family planning advice, especially unsolicited or flippant&lt;/li&gt;\n&lt;li&gt;Career, job, and education questions&lt;/li&gt;\n&lt;li&gt;Medical advice&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "* Missing\uff0dDisappearing after posting a discussion or posting for another with inadequate information or involvement\n* Hyping\uff0dPushing speculative, volatile, illiquid, or meme investments, especially flippantly, tersely, or implying huge returns\n* Rabble rousing\uff0dWe're not your personal army\n* Doxing\uff0dPosting or seeking personal information, dox attempts or threats\n* Flooding\uff0dPosting excessively frequently\n* Duplicates\uff0dReposting news or information\n* Plagiarism\uff0dNot giving credit properly",
+      "short_name": "Other bad behavior",
+      "violation_reason": "Other bad behavior",
+      "created_utc": 1652979978,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;Missing\uff0dDisappearing after posting a discussion or posting for another with inadequate information or involvement&lt;/li&gt;\n&lt;li&gt;Hyping\uff0dPushing speculative, volatile, illiquid, or meme investments, especially flippantly, tersely, or implying huge returns&lt;/li&gt;\n&lt;li&gt;Rabble rousing\uff0dWe&amp;#39;re not your personal army&lt;/li&gt;\n&lt;li&gt;Doxing\uff0dPosting or seeking personal information, dox attempts or threats&lt;/li&gt;\n&lt;li&gt;Flooding\uff0dPosting excessively frequently&lt;/li&gt;\n&lt;li&gt;Duplicates\uff0dReposting news or information&lt;/li&gt;\n&lt;li&gt;Plagiarism\uff0dNot giving credit properly&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

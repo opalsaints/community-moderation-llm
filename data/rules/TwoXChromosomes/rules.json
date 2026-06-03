@@ -1,0 +1,181 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "No hatred, bigotry, assholery, misogyny, misandry, transphobia, homophobia, racism or otherwise disrespectful commentary. Please follow reddiquette.",
+      "short_name": "Respect",
+      "violation_reason": "Disrespectful Commentary (respect)",
+      "created_utc": 1652992757,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;No hatred, bigotry, assholery, misogyny, misandry, transphobia, homophobia, racism or otherwise disrespectful commentary. Please follow reddiquette.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "No drama-inducing crossposting of content found in other subreddits. Likewise, posts found to direct odious influxes here will be removed. Advertising your fabulous new subreddit is always welcome here.\n\nYou are welcome to link to relevant subreddits when warranted, but linking to comment threads is almost always considered drama-inducing regardless of intent. \n\nRelevant AMAs can be linked to. In subreddits smaller than 500k subscribers AMA's must be posted by a moderator of that subreddit.",
+      "short_name": "Equanimity",
+      "violation_reason": "Inciting Cross-Reddit Drama (equinamity)",
+      "created_utc": 1652992757,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;No drama-inducing crossposting of content found in other subreddits. Likewise, posts found to direct odious influxes here will be removed. Advertising your fabulous new subreddit is always welcome here.&lt;/p&gt;\n\n&lt;p&gt;You are welcome to link to relevant subreddits when warranted, but linking to comment threads is almost always considered drama-inducing regardless of intent. &lt;/p&gt;\n\n&lt;p&gt;Relevant AMAs can be linked to. In subreddits smaller than 500k subscribers AMA&amp;#39;s must be posted by a moderator of that subreddit.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "No tactless posts generalizing gender. We are a welcoming community. Rights of all genders are supported here.",
+      "short_name": "Grace",
+      "violation_reason": "Tactless Generalisation (grace)",
+      "created_utc": 1652992757,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;No tactless posts generalizing gender. We are a welcoming community. Rights of all genders are supported here.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We ask that you keep this community awesome by submitting content that is relevant to our experiences as women, for women, or about women. \n\nSeveral topics are not considered relevant, such as: Medical Advice; Relationship advice; Surveys, Research and Petitions; Horrible things said and done by individuals; Fundraising; Issues affecting men too; Questions for the perspectives of women; Posts made to debate the women of reddit; images outside image guidelines; \"PM/chat me\"; posts written by AI.",
+      "short_name": "Relevance",
+      "violation_reason": "Off topic (relevance)",
+      "created_utc": 1652992757,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We ask that you keep this community awesome by submitting content that is relevant to our experiences as women, for women, or about women. &lt;/p&gt;\n\n&lt;p&gt;Several topics are not considered relevant, such as: Medical Advice; Relationship advice; Surveys, Research and Petitions; Horrible things said and done by individuals; Fundraising; Issues affecting men too; Questions for the perspectives of women; Posts made to debate the women of reddit; images outside image guidelines; &amp;quot;PM/chat me&amp;quot;; posts written by AI.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Post titles should not contain any \u201ctrigger\u201d words and flair your post properly. \n\nUsers should not be blindsided into words/phrases that affect them negatively. \n\nIf you do post with either any of these words or phrases, your post will be removed and you\u2019ll have to post it again with a revised title. ",
+      "short_name": "Post Etiquette",
+      "violation_reason": "Post etiquette",
+      "created_utc": 1726151667,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Post titles should not contain any \u201ctrigger\u201d words and flair your post properly. &lt;/p&gt;\n\n&lt;p&gt;Users should not be blindsided into words/phrases that affect them negatively. &lt;/p&gt;\n\n&lt;p&gt;If you do post with either any of these words or phrases, your post will be removed and you\u2019ll have to post it again with a revised title. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sub": "relationships",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 66,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5154,
+    "tp": 2896,
+    "fp": 2781,
+    "tn": 1225,
+    "fn": 1098
+  },
+  "test": {
+    "accuracy": 0.507,
+    "f1_removed": 0.5979,
+    "f1_macro": 0.4805,
+    "kappa": 0.0114,
+    "precision": 0.5069,
+    "recall": 0.7286,
+    "balanced_accuracy": 0.5057,
+    "tp": 733,
+    "fp": 713,
+    "tn": 281,
+    "fn": 273
+  }
+}

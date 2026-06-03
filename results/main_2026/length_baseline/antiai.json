@@ -1,0 +1,28 @@
+{
+  "sub": "antiai",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 17,
+    "direction": "long_is_removed",
+    "bal_acc": 0.5325,
+    "tp": 2553,
+    "fp": 2300,
+    "tn": 1706,
+    "fn": 1441
+  },
+  "test": {
+    "accuracy": 0.519,
+    "f1_removed": 0.5678,
+    "f1_macro": 0.5128,
+    "kappa": 0.0367,
+    "precision": 0.518,
+    "recall": 0.6282,
+    "balanced_accuracy": 0.5183,
+    "tp": 632,
+    "fp": 588,
+    "tn": 406,
+    "fn": 374
+  }
+}

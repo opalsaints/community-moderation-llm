@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.789,
+  "f1": 0.7961,
+  "precision": 0.7701,
+  "recall": 0.824,
+  "cohens_kappa": 0.578,
+  "tp": 412,
+  "fp": 123,
+  "tn": 377,
+  "fn": 88,
+  "unparseable": 0,
+  "total_evaluated": 1000,
+  "total_attempted": 1000,
+  "auroc": 0.8753,
+  "run_tag": "pooled_all",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "AskHistorians",
+  "template": "pooled",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "epochs": 1,
+  "eval_seconds": 49.0,
+  "engine": "vllm",
+  "auroc_direct": 0.8753,
+  "auroc_inversion_applied": false,
+  "auroc_note": "retrofitted via max(direct, 1-direct) on pooled_all; direct=raw AUROC from confidence_removed, flipped if <0.5",
+  "accuracy_ci": [
+    0.765,
+    0.814
+  ],
+  "f1_ci": [
+    0.7712,
+    0.8218
+  ],
+  "cohens_kappa_ci": [
+    0.5302,
+    0.6282
+  ],
+  "auroc_ci": [
+    0.8531,
+    0.8962
+  ],
+  "bootstrap_n": 1000,
+  "bootstrap_seed": 42
+}

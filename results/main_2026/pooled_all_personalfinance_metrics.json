@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.767,
+  "f1": 0.7605,
+  "precision": 0.7822,
+  "recall": 0.74,
+  "cohens_kappa": 0.534,
+  "tp": 370,
+  "fp": 103,
+  "tn": 397,
+  "fn": 130,
+  "unparseable": 0,
+  "total_evaluated": 1000,
+  "total_attempted": 1000,
+  "auroc": 0.8562,
+  "run_tag": "pooled_all",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "personalfinance",
+  "template": "pooled",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "epochs": 1,
+  "eval_seconds": 26.5,
+  "engine": "vllm",
+  "auroc_direct": 0.8562,
+  "auroc_inversion_applied": false,
+  "auroc_note": "retrofitted via max(direct, 1-direct) on pooled_all; direct=raw AUROC from confidence_removed, flipped if <0.5",
+  "accuracy_ci": [
+    0.741,
+    0.792
+  ],
+  "f1_ci": [
+    0.7302,
+    0.789
+  ],
+  "cohens_kappa_ci": [
+    0.4824,
+    0.5835
+  ],
+  "auroc_ci": [
+    0.8331,
+    0.877
+  ],
+  "bootstrap_n": 1000,
+  "bootstrap_seed": 42
+}

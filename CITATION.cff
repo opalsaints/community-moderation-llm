@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, the released adapters, or the dataset, please cite the thesis."
+title: "Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit"
+authors:
+  - family-names: Cowley
+    given-names: Jonathan
+type: thesis
+year: 2026
+institution:
+  name: "Amsterdam University College / University of Amsterdam"
+keywords:
+  - content moderation
+  - Reddit
+  - large language models
+  - LoRA
+  - Qwen3

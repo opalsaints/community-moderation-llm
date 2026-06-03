@@ -1,0 +1,28 @@
+{
+  "sub": "AskHistorians",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 296,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5428,
+    "tp": 3737,
+    "fp": 3405,
+    "tn": 601,
+    "fn": 257
+  },
+  "test": {
+    "accuracy": 0.558,
+    "f1_removed": 0.6834,
+    "f1_macro": 0.4758,
+    "kappa": 0.1118,
+    "precision": 0.5342,
+    "recall": 0.9483,
+    "balanced_accuracy": 0.5556,
+    "tp": 954,
+    "fp": 832,
+    "tn": 162,
+    "fn": 52
+  }
+}

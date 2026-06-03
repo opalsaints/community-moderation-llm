@@ -1,0 +1,244 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "Pro AI posts ok.",
+      "violation_reason": "Pro AI posts ok.",
+      "created_utc": 1671398337,
+      "priority": 0
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "Anti-AI posts ok.",
+      "violation_reason": "Anti-AI posts ok.",
+      "created_utc": 1672674771,
+      "priority": 1
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "Speak freely from any side but follow Reddit's Content Policy.",
+      "violation_reason": "Speak freely from any side but follow Reddit's Content Policy.",
+      "created_utc": 1672674787,
+      "priority": 2
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "No spam.",
+      "violation_reason": "No spam.",
+      "created_utc": 1672674794,
+      "priority": 3
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "No brigading from any side. Censor names of private individuals and other Subreddits before posting.",
+      "violation_reason": "No brigading from any side. Censor names of private individuals and other Subreddits before posting.",
+      "created_utc": 1672674803,
+      "priority": 4
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "NSFW allowed with spoiler.",
+      "violation_reason": "NSFW allowed with spoiler.",
+      "created_utc": 1672674811,
+      "priority": 5
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "No suggestions of violence.",
+      "violation_reason": "No suggestions of violence.",
+      "created_utc": 1672674817,
+      "priority": 6
+    },
+    {
+      "kind": "all",
+      "description": "As long as the post is about AI, political discussion around that post is allowed in the comments. Reddit and Sub content policy still needs to be followed.",
+      "short_name": "No politics or religion unless explicitly connected to AI.",
+      "violation_reason": "No politics or religion unless explicitly connected to AI",
+      "created_utc": 1704347292,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;As long as the post is about AI, political discussion around that post is allowed in the comments. Reddit and Sub content policy still needs to be followed.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "Censor usernames and personal information of ALL private figures. Public figures are exempt.",
+      "violation_reason": "Censor usernames and personal information of ALL private figures. Public figures are exempt.",
+      "created_utc": 1673806333,
+      "priority": 8
+    },
+    {
+      "kind": "all",
+      "description": "In order to cut down on spam and harassment, we have a new AutoMod rule that an account must be at least 7 days old to post or comment here.",
+      "short_name": "Account must be at least 7 days old to post and comment here. ",
+      "violation_reason": "Account must be at least 7 days old to post and comment here. ",
+      "created_utc": 1736173305,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;In order to cut down on spam and harassment, we have a new AutoMod rule that an account must be at least 7 days old to post or comment here.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "In order to cut down on potential brigading, cross posts will be removed. Please repost by taking a screenshot of the post and censoring the sub name as well as the username and private info of any users.",
+      "short_name": "No crossposting. Take a screenshot, censor sub and user info and post.",
+      "violation_reason": "No crossposting. Take a screenshot, censor sub and user info and post.",
+      "created_utc": 1738957794,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;In order to cut down on potential brigading, cross posts will be removed. Please repost by taking a screenshot of the post and censoring the sub name as well as the username and private info of any users.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "To differentiate this space from art subreddits, posts featuring nothing but traditional art or AI art without contributing to broader discussion may be removed.",
+      "short_name": "This is not a sub for posting art.",
+      "violation_reason": "This is not a sub for posting art.",
+      "created_utc": 1773487488,
+      "priority": 11,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;To differentiate this space from art subreddits, posts featuring nothing but traditional art or AI art without contributing to broader discussion may be removed.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "",
+      "short_name": "Debate at will. The floor is open.",
+      "violation_reason": "Debate at will. The floor is open.",
+      "created_utc": 1672674839,
+      "priority": 12
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

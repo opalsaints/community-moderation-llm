@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.79,
+  "f1": 0.7879,
+  "precision": 0.7959,
+  "recall": 0.78,
+  "cohens_kappa": 0.58,
+  "tp": 390,
+  "fp": 100,
+  "tn": 400,
+  "fn": 110,
+  "unparseable": 0,
+  "total_evaluated": 1000,
+  "total_attempted": 1000,
+  "auroc": 0.8524,
+  "run_tag": "pooled_all",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "science",
+  "template": "pooled",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "epochs": 1,
+  "eval_seconds": 28.2,
+  "engine": "vllm",
+  "auroc_direct": 0.8524,
+  "auroc_inversion_applied": false,
+  "auroc_note": "retrofitted via max(direct, 1-direct) on pooled_all; direct=raw AUROC from confidence_removed, flipped if <0.5",
+  "accuracy_ci": [
+    0.766,
+    0.815
+  ],
+  "f1_ci": [
+    0.7605,
+    0.8147
+  ],
+  "cohens_kappa_ci": [
+    0.5313,
+    0.6295
+  ],
+  "auroc_ci": [
+    0.8293,
+    0.8743
+  ],
+  "bootstrap_n": 1000,
+  "bootstrap_seed": 42
+}

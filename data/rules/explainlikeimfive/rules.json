@@ -1,0 +1,235 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "Stay respectful, polite, and friendly. ELI5 is a for requesting help understanding complex concepts and sharing explanations [without fear of judgement](/r/explainlikeimfive/comments/j28z5/welcome/). Don't insult people or their good intentions in a post, comment, or otherwise, even if a person seems rude or ill-informed. Remember the positive spirit of ELI5. \n\nThis includes plagiarism - acknowledge your sources! \n\nUse of bigoted slurs, directed at other users or not, is uncivil.",
+      "short_name": "Be Civil",
+      "violation_reason": "Being uncivil",
+      "created_utc": 1652992571,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Stay respectful, polite, and friendly. ELI5 is a for requesting help understanding complex concepts and sharing explanations &lt;a href=\"/r/explainlikeimfive/comments/j28z5/welcome/\"&gt;without fear of judgement&lt;/a&gt;. Don&amp;#39;t insult people or their good intentions in a post, comment, or otherwise, even if a person seems rude or ill-informed. Remember the positive spirit of ELI5. &lt;/p&gt;\n\n&lt;p&gt;This includes plagiarism - acknowledge your sources! &lt;/p&gt;\n\n&lt;p&gt;Use of bigoted slurs, directed at other users or not, is uncivil.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "ELI5 is not meant for any question that you may have. It is meant for simplifying complex *concepts*. \n\nNotably, posts will be immediately removed that ask for:\n\n- Information about a specific issue (personal experience, legal/relationship questions, medical questions, etc.)\n- Subjective/speculative replies\n- Straightforward answers/facts\n- Recent/current events\n- Religion/Politics\n- Hypotheticals\n- Reddit questions (itself/help). \n- Whole topic overviews\n- Business/Group/Individual motivations",
+      "short_name": "All submissions must seek objective explanations",
+      "violation_reason": "Not seeking objective explanation",
+      "created_utc": 1652992571,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;ELI5 is not meant for any question that you may have. It is meant for simplifying complex &lt;em&gt;concepts&lt;/em&gt;. &lt;/p&gt;\n\n&lt;p&gt;Notably, posts will be immediately removed that ask for:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Information about a specific issue (personal experience, legal/relationship questions, medical questions, etc.)&lt;/li&gt;\n&lt;li&gt;Subjective/speculative replies&lt;/li&gt;\n&lt;li&gt;Straightforward answers/facts&lt;/li&gt;\n&lt;li&gt;Recent/current events&lt;/li&gt;\n&lt;li&gt;Religion/Politics&lt;/li&gt;\n&lt;li&gt;Hypotheticals&lt;/li&gt;\n&lt;li&gt;Reddit questions (itself/help). &lt;/li&gt;\n&lt;li&gt;Whole topic overviews&lt;/li&gt;\n&lt;li&gt;Business/Group/Individual motivations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Replies to OP must be written explanations or relevant follow-up questions. They may not be jokes, anecdotes, etc. Short/succinct answers are not explanations, even if factually correct. \n\nLinks to outside sources are allowed and encouraged, but must include an original explanation (not just quoted text) or summary. \nLinks to relevant previous ELI5 posts or highly relevant other subreddits may be excepted.\n\nNo plagiarism. All quoted text must be cited.\nNo Bots/GPT\n\nThis list is not comprehensive",
+      "short_name": "Top-level comments must be written explanations",
+      "violation_reason": "Not a written explanation",
+      "created_utc": 1652992571,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Replies to OP must be written explanations or relevant follow-up questions. They may not be jokes, anecdotes, etc. Short/succinct answers are not explanations, even if factually correct. &lt;/p&gt;\n\n&lt;p&gt;Links to outside sources are allowed and encouraged, but must include an original explanation (not just quoted text) or summary. \nLinks to relevant previous ELI5 posts or highly relevant other subreddits may be excepted.&lt;/p&gt;\n\n&lt;p&gt;No plagiarism. All quoted text must be cited.\nNo Bots/GPT&lt;/p&gt;\n\n&lt;p&gt;This list is not comprehensive&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Unless OP states otherwise, assume no knowledge beyond a typical secondary education program. Avoid unexplained technical terms. Don't condescend; \"like I'm five\" is a figure of speech meaning \"keep it clear and simple.\"",
+      "short_name": "Explain for laypeople (but not actual 5-year-olds)",
+      "violation_reason": "Not layperson-accessible",
+      "created_utc": 1652992571,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Unless OP states otherwise, assume no knowledge beyond a typical secondary education program. Avoid unexplained technical terms. Don&amp;#39;t condescend; &amp;quot;like I&amp;#39;m five&amp;quot; is a figure of speech meaning &amp;quot;keep it clear and simple.&amp;quot;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "All comments must explain, ask about, correct or address facts. Trying to change someone's opinion or influence them with yours is not appropriate.\n\n\nIf you are not able to submit, discuss or correct factual information without implicitly or explicitly involving your personal view on the matter, do not post.",
+      "short_name": "ELI5 is for factual information, not opinions",
+      "violation_reason": "Soapboxing",
+      "created_utc": 1652992571,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;All comments must explain, ask about, correct or address facts. Trying to change someone&amp;#39;s opinion or influence them with yours is not appropriate.&lt;/p&gt;\n\n&lt;p&gt;If you are not able to submit, discuss or correct factual information without implicitly or explicitly involving your personal view on the matter, do not post.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "A loaded question presumes a controversial or not obviously true statement as fact. \"ELI5: Why was Obama the president when he wasn't born in the US?\" is loaded. \"ELI5: The controversy about where Obama was born\" is a non-loaded way to ask about the same topic.\n\nIf your question boils down to: \"Why isn't this thing I believe (or is self evidently true) the case?\" your question is loaded and belongs in another subreddit.",
+      "short_name": "Loaded questions are not allowed",
+      "violation_reason": "Loaded question",
+      "created_utc": 1652992571,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;A loaded question presumes a controversial or not obviously true statement as fact. &amp;quot;ELI5: Why was Obama the president when he wasn&amp;#39;t born in the US?&amp;quot; is loaded. &amp;quot;ELI5: The controversy about where Obama was born&amp;quot; is a non-loaded way to ask about the same topic.&lt;/p&gt;\n\n&lt;p&gt;If your question boils down to: &amp;quot;Why isn&amp;#39;t this thing I believe (or is self evidently true) the case?&amp;quot; your question is loaded and belongs in another subreddit.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "To avoid repeats, search key words (\"storm\" for \"How do Thunderstorms Form?\"), not the whole title. If you found only explanations that weren't clear on your point, explain that, and state what you're still trying to understand.\n\n\u201cOld posts\u201d refers to questions older than one year. If there are posts on the topic in that timeframe you must explain why those posts do not answer the question. \n\nYou can read more on our reposts policy [here](https://www.reddit.com/r/explainlikeimfive/wiki/reposts).",
+      "short_name": "Search before posting; don't repeat old posts",
+      "violation_reason": "Repeat Post Within 1 year",
+      "created_utc": 1652992571,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;To avoid repeats, search key words (&amp;quot;storm&amp;quot; for &amp;quot;How do Thunderstorms Form?&amp;quot;), not the whole title. If you found only explanations that weren&amp;#39;t clear on your point, explain that, and state what you&amp;#39;re still trying to understand.&lt;/p&gt;\n\n&lt;p&gt;\u201cOld posts\u201d refers to questions older than one year. If there are posts on the topic in that timeframe you must explain why those posts do not answer the question. &lt;/p&gt;\n\n&lt;p&gt;You can read more on our reposts policy &lt;a href=\"https://www.reddit.com/r/explainlikeimfive/wiki/reposts\"&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "If you don't know how to explain something, you don't need to reply. If you have a partly educated guess, only comment on the parts you are sure of.",
+      "short_name": "Don't guess",
+      "violation_reason": "Guessing",
+      "created_utc": 1652992571,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If you don&amp;#39;t know how to explain something, you don&amp;#39;t need to reply. If you have a partly educated guess, only comment on the parts you are sure of.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "If the automatic moderator removes your post, read the whole message it gives you, and follow its advice. It's there to help, not to be evaded \u2014 evasion will result in a ban.",
+      "short_name": "Don't try to trick the bot",
+      "violation_reason": "Evading the bot",
+      "created_utc": 1652992571,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If the automatic moderator removes your post, read the whole message it gives you, and follow its advice. It&amp;#39;s there to help, not to be evaded \u2014 evasion will result in a ban.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "This is meant to help identify ELI5 posts on the frontpage or /r/all or any other collection. \n---\nQuestions *must* be clear from the post title. If you need to explain it in the text body, you probably need to rephrase. \n---\n\nModeration decisions are ultimately left up to the discretion of the ELI5 modteam. Do not try to find loopholes in the rules and sneak through them. Above all else, respect the spirit of the subreddit.",
+      "short_name": "Posts must begin with \"ELI5:\"",
+      "violation_reason": "Posts must begin with \"ELI5:\"",
+      "created_utc": 1652992571,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;h2&gt;This is meant to help identify ELI5 posts on the frontpage or &lt;a href=\"/r/all\"&gt;/r/all&lt;/a&gt; or any other collection. &lt;/h2&gt;\n\n&lt;h2&gt;Questions &lt;em&gt;must&lt;/em&gt; be clear from the post title. If you need to explain it in the text body, you probably need to rephrase. &lt;/h2&gt;\n\n&lt;p&gt;Moderation decisions are ultimately left up to the discretion of the ELI5 modteam. Do not try to find loopholes in the rules and sneak through them. Above all else, respect the spirit of the subreddit.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "https://www.reddit.com/r/explainlikeimfive/wiki/detailed_rules/\n\nHere is a link to the detailed rules which are not character constrained. The above rules are a summary.",
+      "short_name": "Link to the Detailed Rules",
+      "violation_reason": "Link to the Detailed rules",
+      "created_utc": 1717935460,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/explainlikeimfive/wiki/detailed_rules/\"&gt;https://www.reddit.com/r/explainlikeimfive/wiki/detailed_rules/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Here is a link to the detailed rules which are not character constrained. The above rules are a summary.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

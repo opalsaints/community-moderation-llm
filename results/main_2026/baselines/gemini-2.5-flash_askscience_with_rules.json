@@ -1,0 +1,50 @@
+{
+ "accuracy": 0.5594,
+ "f1": 0.3782,
+ "precision": 0.6961,
+ "recall": 0.2596,
+ "tp": 142,
+ "fp": 62,
+ "tn": 451,
+ "fn": 405,
+ "unparseable": 0,
+ "total_evaluated": 1060,
+ "total_attempted": 1060,
+ "model": "gemini-2.5-flash",
+ "subreddit": "askscience",
+ "condition": "with_rules",
+ "elapsed_seconds": 874.6,
+ "samples_per_second": 1.21,
+ "engine": "vertex_ai",
+ "constrained_decoding": true,
+ "constrained_method": "text/x.enum",
+ "thinking_budget": 0,
+ "labels": "True/False",
+ "api_errors": 0,
+ "confidence_mean": 0.2122,
+ "confidence_min": 0.0001,
+ "confidence_max": 0.9996,
+ "confidence_count": 1060,
+ "cohens_kappa": 0.1359,
+ "auroc": 0.6317,
+ "auroc_direct": 0.6317,
+ "auroc_inversion_applied": false,
+ "accuracy_ci": [
+  0.5292,
+  0.5896
+ ],
+ "f1_ci": [
+  0.3385,
+  0.4237
+ ],
+ "cohens_kappa_ci": [
+  0.0925,
+  0.1829
+ ],
+ "auroc_ci": [
+  0.599,
+  0.6642
+ ],
+ "bootstrap_n": 1000,
+ "bootstrap_seed": 42
+}

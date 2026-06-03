@@ -1,0 +1,31 @@
+{
+  "run_tag": "r4_stacked_explainlikeimfive",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "explainlikeimfive",
+  "template": "enriched",
+  "include_sub_prefix": true,
+  "seed": 42,
+  "train_samples": 8000,
+  "train_seconds": 20164.3,
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "epochs": 2,
+  "batch_size": 1,
+  "gradient_accumulation": 8,
+  "learning_rate": 0.0002,
+  "warmup_steps": 50,
+  "lr_scheduler": "cosine",
+  "label_smoothing": 0.1,
+  "eval_temperature": 0.1,
+  "max_seq_length": 2048
+}

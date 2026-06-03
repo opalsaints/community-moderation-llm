@@ -1,0 +1,262 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "[All users are expected to behave with courtesy and politeness at all times.](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_civility) We will not tolerate racism, sexism, or any other forms of bigotry. This includes Holocaust denialism. Nor will we accept personal insults of any kind, and do not allow minor nitpicking of grammar or spelling.",
+      "short_name": "Users shall behave with courtesy and politeness",
+      "violation_reason": "Incivility or Rudeness",
+      "created_utc": 1652981365,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_civility\"&gt;All users are expected to behave with courtesy and politeness at all times.&lt;/a&gt; We will not tolerate racism, sexism, or any other forms of bigotry. This includes Holocaust denialism. Nor will we accept personal insults of any kind, and do not allow minor nitpicking of grammar or spelling.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "People asking questions should make every effort to ensure that their questions are clear, specific, and novel. We give broad latitude, but do remove questions for a small number of technical matters:\n\n* Homework Questions\n* No \"Poll\"-Type Questions\n* Questions With Privacy Issues\n* No Loaded Questions\n* No \"What If\"\n\nSee [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_questions) for further expansion on these restrictions and how they are enforced.",
+      "short_name": "Questions should be clear and specific, be asked in good faith, and seek an in-depth answer",
+      "violation_reason": "Poll-Type, Schoolwork, or Soapboxing.",
+      "created_utc": 1652981365,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;People asking questions should make every effort to ensure that their questions are clear, specific, and novel. We give broad latitude, but do remove questions for a small number of technical matters:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Homework Questions&lt;/li&gt;\n&lt;li&gt;No &amp;quot;Poll&amp;quot;-Type Questions&lt;/li&gt;\n&lt;li&gt;Questions With Privacy Issues&lt;/li&gt;\n&lt;li&gt;No Loaded Questions&lt;/li&gt;\n&lt;li&gt;No &amp;quot;What If&amp;quot;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;See &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_questions\"&gt;here&lt;/a&gt; for further expansion on these restrictions and how they are enforced.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Questions should be historical in nature, and not ask about hypothetical 'What-If' scenarios.\nQuestions which are looking for basic, factual information from reference works are allowed only in the 'Short Answers to Simple Questions' Thread.\nWe do not provide valuation services, or allow questions which relate to artifacts which may have been obtained illegally.",
+      "short_name": "Questions should be historical in nature, and ask for more than basic facts",
+      "violation_reason": "Non-History Question, 'Basic Facts' Request, 'What-If', or Valuation Request",
+      "created_utc": 1652981365,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Questions should be historical in nature, and not ask about hypothetical &amp;#39;What-If&amp;#39; scenarios.\nQuestions which are looking for basic, factual information from reference works are allowed only in the &amp;#39;Short Answers to Simple Questions&amp;#39; Thread.\nWe do not provide valuation services, or allow questions which relate to artifacts which may have been obtained illegally.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Sources are highly encouraged in all answers given in r/AskHistorians. A good answer will be supported by relevant and reliable sources. Primary sources are good. Secondary sources are also acceptable. Even though sources are not mandatory, if someone asks you to provide sources in good faith, please provide them willingly and happily. Being unable to may result in the removal of the answer.\n\nFor further information, see [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources).",
+      "short_name": "Users should be able to provide sources on request",
+      "violation_reason": "Sources requested: No response in reasonable time (4-24 hours, depending on circumstances)",
+      "created_utc": 1652981366,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Sources are highly encouraged in all answers given in &lt;a href=\"/r/AskHistorians\"&gt;r/AskHistorians&lt;/a&gt;. A good answer will be supported by relevant and reliable sources. Primary sources are good. Secondary sources are also acceptable. Even though sources are not mandatory, if someone asks you to provide sources in good faith, please provide them willingly and happily. Being unable to may result in the removal of the answer.&lt;/p&gt;\n\n&lt;p&gt;For further information, see &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources\"&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Answers are held to a higher standard than is generally found on reddit. Answers should be in-depth, comprehensive, accurate, and based off of good quality sources. \nIn evaluating answers against the rules, the moderator team is looking for responses which are in line with the existing Historiography on the topic, and written in a manner respecting the Historical Method.\n\nSee [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers) for further information.",
+      "short_name": "Answers must be in-depth and comprehensive",
+      "violation_reason": "Response lacks depth or does not otherwise adequately engage with the topic.",
+      "created_utc": 1652981366,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Answers are held to a higher standard than is generally found on reddit. Answers should be in-depth, comprehensive, accurate, and based off of good quality sources. \nIn evaluating answers against the rules, the moderator team is looking for responses which are in line with the existing Historiography on the topic, and written in a manner respecting the Historical Method.&lt;/p&gt;\n\n&lt;p&gt;See &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers\"&gt;here&lt;/a&gt; for further information.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Answers in this subreddit are expected to be of a level that historians would provide: comprehensive and informative, and of course, *correct*. Answers which reflect factually incorrect information will be removed, as will answers where it is clear that the writer is unfamiliar with standard literature or unable to engage with basic follow-up questions.\n\nIf you see this, please let the Mods know!\n\nSee [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers) for further information.",
+      "short_name": "Answers should reflect knowledge and familiarity with the topic at hand",
+      "violation_reason": "Response includes significant mistakes or incorrect info (Please consider a reply, or a modmail).",
+      "created_utc": 1652981366,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Answers in this subreddit are expected to be of a level that historians would provide: comprehensive and informative, and of course, &lt;em&gt;correct&lt;/em&gt;. Answers which reflect factually incorrect information will be removed, as will answers where it is clear that the writer is unfamiliar with standard literature or unable to engage with basic follow-up questions.&lt;/p&gt;\n\n&lt;p&gt;If you see this, please let the Mods know!&lt;/p&gt;\n\n&lt;p&gt;See &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers\"&gt;here&lt;/a&gt; for further information.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Personal anecdotes are not acceptable answers in this subreddit. They are unreliable, unverifiable and of very little real interest for our purposes. Additionally, suppositions and personal opinions are not a suitable basis for an answer in r/AskHistorians. Answers which rely on personal anecdotes or speculation will be removed.\n\nSee [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes) for further information.",
+      "short_name": "Answers should not be speculative or anecdotal",
+      "violation_reason": "Personal anecdote or ungrounded speculation",
+      "created_utc": 1652981366,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Personal anecdotes are not acceptable answers in this subreddit. They are unreliable, unverifiable and of very little real interest for our purposes. Additionally, suppositions and personal opinions are not a suitable basis for an answer in &lt;a href=\"/r/AskHistorians\"&gt;r/AskHistorians&lt;/a&gt;. Answers which rely on personal anecdotes or speculation will be removed.&lt;/p&gt;\n\n&lt;p&gt;See &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes\"&gt;here&lt;/a&gt; for further information.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "This subreddit is called AskHistorians, not LectureHistorians or DebateHistorians. All questions must allow a back-and-forth dialogue based on the desire to gain further information, and not be predicated on a false and loaded premise in order to push an agenda.\n\nSee [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_political_agendas_or_moralising) for more info.",
+      "short_name": "No questions that are soapboxing, or about events and politics &lt;20 years",
+      "violation_reason": "Content is soapboxing, engaging in current politics, or topic less than 20 years old",
+      "created_utc": 1652981366,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This subreddit is called AskHistorians, not LectureHistorians or DebateHistorians. All questions must allow a back-and-forth dialogue based on the desire to gain further information, and not be predicated on a false and loaded premise in order to push an agenda.&lt;/p&gt;\n\n&lt;p&gt;See &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_political_agendas_or_moralising\"&gt;here&lt;/a&gt; for more info.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Answers should not be written in the interests of advancing a personal agenda, but should represent a sincere effort to make an argument from the historical record. They should be constructed in keeping with the principles of the historical method, and your argument should instead demonstrably flow from your critical engagement with an appropriate range of evidence.\nWe would expect the answerer to approach the issue earnestly and in good faith, and with fidelity to the historical method.",
+      "short_name": "No political agendas or moralising in answers",
+      "violation_reason": "Content is soapboxing, engaging in current politics, or moralizing",
+      "created_utc": 1685908759,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Answers should not be written in the interests of advancing a personal agenda, but should represent a sincere effort to make an argument from the historical record. They should be constructed in keeping with the principles of the historical method, and your argument should instead demonstrably flow from your critical engagement with an appropriate range of evidence.\nWe would expect the answerer to approach the issue earnestly and in good faith, and with fidelity to the historical method.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Do not just post links to other sites as an answer. This is not helpful. Please take some time to put the links in context for the person asking the question. Avoid only recommending a source \u2013 whether that's another site, a book, or large slabs of copy-pasted text. If you want to recommend a source, please provide at least a small summary of what the source says. \n\nSee [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations) for further information.",
+      "short_name": "Answers should not be only links or quotations",
+      "violation_reason": "Answer primarily consists of just quote, a book title, or a link not to an AskHistorians thread",
+      "created_utc": 1652981366,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Do not just post links to other sites as an answer. This is not helpful. Please take some time to put the links in context for the person asking the question. Avoid only recommending a source \u2013 whether that&amp;#39;s another site, a book, or large slabs of copy-pasted text. If you want to recommend a source, please provide at least a small summary of what the source says. &lt;/p&gt;\n\n&lt;p&gt;See &lt;a href=\"https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations\"&gt;here&lt;/a&gt; for further information.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "We have a zero-tolerance policy on blatant plagiarism, such as directly copying and pasting another person's words and trying to pass them off as your own. This will result in an instant ban. If you are borrowing verbatim text from a source, *always* be sure that you are clear on where you got it from.",
+      "short_name": "Answers must be original work, and cite all quotes",
+      "violation_reason": "Plagiarism (including use of AI like ChatGPT). Please message the mods with evidence if not apparent",
+      "created_utc": 1652981366,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We have a zero-tolerance policy on blatant plagiarism, such as directly copying and pasting another person&amp;#39;s words and trying to pass them off as your own. This will result in an instant ban. If you are borrowing verbatim text from a source, &lt;em&gt;always&lt;/em&gt; be sure that you are clear on where you got it from.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "A post should not consist only of a joke, a humorous remark, or a flippant comment. You can certainly include humour as part of a full and comprehensive post, but your post should not be made solely for the purpose of being funny.",
+      "short_name": "Comments should not consist solely of jokes",
+      "violation_reason": "Joke response",
+      "created_utc": 1652981366,
+      "priority": 11,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;A post should not consist only of a joke, a humorous remark, or a flippant comment. You can certainly include humour as part of a full and comprehensive post, but your post should not be made solely for the purpose of being funny.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "We have no tolerance for bigoted or racist remarks in this subreddit. This includes, but is by means limited to, the use of racial slurs, misogynism, and homophobia, as well as advocacy for positions such as Holocaust Denial. These are cause for immediate banning.",
+      "short_name": "Racist or bigoted comments are not tolerated here",
+      "violation_reason": "Bigotry, racism, Holocaust denial, or other offensive or obscene content",
+      "created_utc": 1652981366,
+      "priority": 12,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We have no tolerance for bigoted or racist remarks in this subreddit. This includes, but is by means limited to, the use of racial slurs, misogynism, and homophobia, as well as advocacy for positions such as Holocaust Denial. These are cause for immediate banning.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Please do not comment for the sake of commenting. All top-level comments should be answers which meet the subreddit guidelines. All lower level responses should be comments that engage with the answer they are replying to and meaningfully add to any discussion.\n\nComments which significantly digress from the topic will be removed, as will be any comments which don't make a meaningful contribution that advances the discussion on the topic or are otherwise cluttersome.",
+      "short_name": "Top level comments should be answers only, and ALL comments should be on-topic, and constructive",
+      "violation_reason": "Clutter, digression, or content which otherwise does not constructively contribute to the thread",
+      "created_utc": 1652981366,
+      "priority": 13,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Please do not comment for the sake of commenting. All top-level comments should be answers which meet the subreddit guidelines. All lower level responses should be comments that engage with the answer they are replying to and meaningfully add to any discussion.&lt;/p&gt;\n\n&lt;p&gt;Comments which significantly digress from the topic will be removed, as will be any comments which don&amp;#39;t make a meaningful contribution that advances the discussion on the topic or are otherwise cluttersome.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

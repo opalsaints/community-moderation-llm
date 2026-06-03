@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.751,
+  "f1": 0.7503,
+  "precision": 0.7525,
+  "recall": 0.748,
+  "cohens_kappa": 0.502,
+  "tp": 374,
+  "fp": 123,
+  "tn": 377,
+  "fn": 126,
+  "unparseable": 0,
+  "total_evaluated": 1000,
+  "total_attempted": 1000,
+  "auroc": 0.8326,
+  "run_tag": "pooled_all",
+  "model": "Qwen/Qwen3-14B",
+  "subreddit": "Games",
+  "template": "pooled",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "epochs": 1,
+  "eval_seconds": 26.9,
+  "engine": "vllm",
+  "auroc_direct": 0.8326,
+  "auroc_inversion_applied": false,
+  "auroc_note": "retrofitted via max(direct, 1-direct) on pooled_all; direct=raw AUROC from confidence_removed, flipped if <0.5",
+  "accuracy_ci": [
+    0.724,
+    0.78
+  ],
+  "f1_ci": [
+    0.7207,
+    0.7797
+  ],
+  "cohens_kappa_ci": [
+    0.448,
+    0.5599
+  ],
+  "auroc_ci": [
+    0.8079,
+    0.8576
+  ],
+  "bootstrap_n": 1000,
+  "bootstrap_seed": 42
+}

@@ -1,0 +1,262 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "See our hate speech rule [here](https://www.reddit.com/r/Politics/wiki/index#wiki_no_hateful_speech).",
+      "short_name": "General: No hateful speech",
+      "violation_reason": "Hateful speech",
+      "created_utc": 1664270658,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;See our hate speech rule &lt;a href=\"https://www.reddit.com/r/Politics/wiki/index#wiki_no_hateful_speech\"&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "\"Novelty\" and \"gimmick\" accounts or bots are not allowed on /r/politics",
+      "short_name": "General: No novelty accounts or bots",
+      "violation_reason": "No novelty accounts or bots",
+      "created_utc": 1664270639,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;Novelty&amp;quot; and &amp;quot;gimmick&amp;quot; accounts or bots are not allowed on &lt;a href=\"/r/politics\"&gt;/r/politics&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Polls and petitions are not allowed here. This rule is applied to, but not limited to, any link or text post that is attempting to solicit money, signatures, poll responses, volunteer hours, or sign ups from users. \n\n\"Solicitation\" can include advertising a subreddit. \n\nArticles about polls or petitions are allowed as long as they are newsworthy.\n\nAdvertisements as submissions are not permitted.",
+      "short_name": "General: No spam or solicitation",
+      "violation_reason": "Spam or solicitation: advertisements/petitions/volunteer hours/signups",
+      "created_utc": 1664270692,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Polls and petitions are not allowed here. This rule is applied to, but not limited to, any link or text post that is attempting to solicit money, signatures, poll responses, volunteer hours, or sign ups from users. &lt;/p&gt;\n\n&lt;p&gt;&amp;quot;Solicitation&amp;quot; can include advertising a subreddit. &lt;/p&gt;\n\n&lt;p&gt;Articles about polls or petitions are allowed as long as they are newsworthy.&lt;/p&gt;\n\n&lt;p&gt;Advertisements as submissions are not permitted.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "[Our full civility rule is here](https://www.reddit.com/r/politics/wiki/index#wiki_no_personal_attacks).\n\nBe civil and constructive at all times. Attack ideas, not users. \n\nPersonal attacks are not permitted. This includes calling a user a shill/troll, or any other attack. [This is a broad rule](https://www.reddit.com/r/politics/wiki/index#wiki_no_personal_attacks).",
+      "short_name": "Comments: No incivility or personal attacks towards users",
+      "violation_reason": "No incivility or personal attacks towards users",
+      "created_utc": 1664270755,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/politics/wiki/index#wiki_no_personal_attacks\"&gt;Our full civility rule is here&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;Be civil and constructive at all times. Attack ideas, not users. &lt;/p&gt;\n\n&lt;p&gt;Personal attacks are not permitted. This includes calling a user a shill/troll, or any other attack. &lt;a href=\"https://www.reddit.com/r/politics/wiki/index#wiki_no_personal_attacks\"&gt;This is a broad rule&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Participate in discussions here in good faith. Do not flame, bait, or troll. See our trolling rule [here](https://www.reddit.com/r/politics/wiki/index#wiki_no_trolling.2C_baiting_or_flaming).",
+      "short_name": "Comments: No flaming, baiting, or trolling",
+      "violation_reason": "No flaming, baiting, or trolling",
+      "created_utc": 1664270820,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Participate in discussions here in good faith. Do not flame, bait, or troll. See our trolling rule &lt;a href=\"https://www.reddit.com/r/politics/wiki/index#wiki_no_trolling.2C_baiting_or_flaming\"&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Do not make calls to action directed at non-public persons, or post information with the purposes of causing harm or harassment. This includes but is not limited to: names, telephone numbers, street or email address, or hinting that you have this information.\n\nIf you have evidence that someone is a shill, spammer, manipulator or otherwise, message the moderators so we can take action. Public accusations are not okay.\n\nDo not use a username mention, regardless of context.",
+      "short_name": "Comments: No witch hunts or personal information",
+      "violation_reason": "Witch hunting or exposing personal information",
+      "created_utc": 1664270839,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Do not make calls to action directed at non-public persons, or post information with the purposes of causing harm or harassment. This includes but is not limited to: names, telephone numbers, street or email address, or hinting that you have this information.&lt;/p&gt;\n\n&lt;p&gt;If you have evidence that someone is a shill, spammer, manipulator or otherwise, message the moderators so we can take action. Public accusations are not okay.&lt;/p&gt;\n\n&lt;p&gt;Do not use a username mention, regardless of context.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "* Top level comments should be a question or supportive statement for the AMA guest.\n\n* Civility rules apply to all users including AMA guests. You may ask critical questions, but keep things respectful. \n\n* Discussion about Reddit, individual subreddits, or moderation is not allowed.\n\n* Comments such as \"they won't answer this\" or \"why haven't you started answering\" are not allowed.\n\n* No requests for personal favors from the AMA guest\n\n* Do not spam the same or similar comments",
+      "short_name": "Comments: Follow AMA specific rules",
+      "violation_reason": "Breaks AMA rules",
+      "created_utc": 1664270855,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;Top level comments should be a question or supportive statement for the AMA guest.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Civility rules apply to all users including AMA guests. You may ask critical questions, but keep things respectful. &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Discussion about Reddit, individual subreddits, or moderation is not allowed.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Comments such as &amp;quot;they won&amp;#39;t answer this&amp;quot; or &amp;quot;why haven&amp;#39;t you started answering&amp;quot; are not allowed.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;No requests for personal favors from the AMA guest&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Do not spam the same or similar comments&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Full on-topic rules here](https://www.reddit.com/r/politics/wiki/index#wiki_articles_must_deal_explicitly_with_us_politics).\n\nAll submissions to /r/politics need to be explicitly about current US politics.",
+      "short_name": "Posts: Submissions must be explicitly about US politics",
+      "violation_reason": "Off-topic: Not explicitly about US politics",
+      "created_utc": 1664270911,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/politics/wiki/index#wiki_articles_must_deal_explicitly_with_us_politics\"&gt;Full on-topic rules here&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;All submissions to &lt;a href=\"/r/politics\"&gt;/r/politics&lt;/a&gt; need to be explicitly about current US politics.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "All submissions to /r/politics must be published within the last 7 days.",
+      "short_name": "Posts: Submissions must be published within the last 7 days",
+      "violation_reason": "Out of date: Not published within the last 7 days",
+      "created_utc": 1664270928,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;All submissions to &lt;a href=\"/r/politics\"&gt;/r/politics&lt;/a&gt; must be published within the last 7 days.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Full rule here](https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title).\n\nA title must be comprised only of the copied and pasted headline of the article.\n\nDo not add, remove, or change words, **except** when the actual title uses \"breaking\" or ALL CAPS.",
+      "short_name": "Posts: Titles must be the exact headline from the article with minor exceptions",
+      "violation_reason": "Title: Not exact headline. No ALLCAPS or \"breaking\"",
+      "created_utc": 1664270964,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title\"&gt;Full rule here&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;A title must be comprised only of the copied and pasted headline of the article.&lt;/p&gt;\n\n&lt;p&gt;Do not add, remove, or change words, &lt;strong&gt;except&lt;/strong&gt; when the actual title uses &amp;quot;breaking&amp;quot; or ALL CAPS.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Please make sure that you allow at least 10 minutes to pass between each submission, and submit no more than 5 articles within a 24 hour period.  Deleted posts are included in this rule. Moderator removed posts are not.",
+      "short_name": "Posts: Do not flood the new queue",
+      "violation_reason": "No queue flooding",
+      "created_utc": 1664270980,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Please make sure that you allow at least 10 minutes to pass between each submission, and submit no more than 5 articles within a 24 hour period.  Deleted posts are included in this rule. Moderator removed posts are not.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Please do not submit articles or videos which are either entirely copy-pasted from the original reporting.\n\nAll submissions must be **primarily** written in English for us to be able to moderate it and enforce our rules in a fair and unbiased manner.",
+      "short_name": "Posts: No copy-pasted submissions or non-English articles",
+      "violation_reason": "Copy-pasted or non-English article",
+      "created_utc": 1664270995,
+      "priority": 11,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Please do not submit articles or videos which are either entirely copy-pasted from the original reporting.&lt;/p&gt;\n\n&lt;p&gt;All submissions must be &lt;strong&gt;primarily&lt;/strong&gt; written in English for us to be able to moderate it and enforce our rules in a fair and unbiased manner.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "[Full rule here](https://www.reddit.com/r/politics/wiki/index#wiki_submission_content_types).\n\nWe disallow solicitation of users (petitions, polls, requests for money, etc.), personal blogs, satire, images, social media content (Facebook, twitter, tumblr, LinkedIn, etc.), wikis, memes, and political advertisements.",
+      "short_name": "Posts: Disallowed submission types",
+      "violation_reason": "Content: Not an article/video/sound clip/poll",
+      "created_utc": 1664271015,
+      "priority": 12,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/politics/wiki/index#wiki_submission_content_types\"&gt;Full rule here&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;We disallow solicitation of users (petitions, polls, requests for money, etc.), personal blogs, satire, images, social media content (Facebook, twitter, tumblr, LinkedIn, etc.), wikis, memes, and political advertisements.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "r/politics expressly forbids users who are employed by a source to post link submissions to that source without broadcasting their affiliation. Please contact the moderators to get started on our verification process. [More info.](https://www.reddit.com/r/Politics/wiki/index#wiki_disclosure_of_employment)",
+      "short_name": "Posts: Disclose employment or affiliation with a source",
+      "violation_reason": "Failure to disclose related employment",
+      "created_utc": 1664271035,
+      "priority": 13,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/r/politics\"&gt;r/politics&lt;/a&gt; expressly forbids users who are employed by a source to post link submissions to that source without broadcasting their affiliation. Please contact the moderators to get started on our verification process. &lt;a href=\"https://www.reddit.com/r/Politics/wiki/index#wiki_disclosure_of_employment\"&gt;More info.&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

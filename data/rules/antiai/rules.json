@@ -1,0 +1,208 @@
+{
+  "rules": [
+    {
+      "kind": "all",
+      "description": "Use common sense and follow the reddit site-wide rules",
+      "short_name": "Follow Site-Wide Rules",
+      "violation_reason": "Breaks reddit site-wide rules",
+      "created_utc": 1740943931,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Use common sense and follow the reddit site-wide rules&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Pro-AI top level posts will be removed. \n\nThis subreddit is for critical discussion surrounding AI. \n\nThis includes but is not limited to: Criticism of\ngenerative AI/LLMs, AI art, the environmental impact of AI, philosophical arguments against AI, economic impacts of AI, mistakes and danger of over reliance on AI, futurism and AI",
+      "short_name": "This is an Anti-AI Subreddit",
+      "violation_reason": "No toplevel pro-ai posts",
+      "created_utc": 1753068358,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Pro-AI top level posts will be removed. &lt;/p&gt;\n\n&lt;p&gt;This subreddit is for critical discussion surrounding AI. &lt;/p&gt;\n\n&lt;p&gt;This includes but is not limited to: Criticism of\ngenerative AI/LLMs, AI art, the environmental impact of AI, philosophical arguments against AI, economic impacts of AI, mistakes and danger of over reliance on AI, futurism and AI&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Unlike other subreddits, we won\u2019t ban everyone with pro-ai views. However, this is not a debate subreddit.\n\nPeople that come here to argue in bad faith, troll, name call, or start internet drama will be banned.",
+      "short_name": "No Trolling/Bad Faith Participation",
+      "violation_reason": "Trolling/bad faith participation",
+      "created_utc": 1753068406,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Unlike other subreddits, we won\u2019t ban everyone with pro-ai views. However, this is not a debate subreddit.&lt;/p&gt;\n\n&lt;p&gt;People that come here to argue in bad faith, troll, name call, or start internet drama will be banned.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "As per the site-wide rules, censor all personal information, including the names of other subreddits and all personal social media usernames unless they are a public figure. THIS RULE WILL BE STRICTLY ENFORCED. ABSOLUTELY NO BAN MESSAGES FROM OTHER SUBREDDITS. THESE POSTS WILL RESULT IN A 3 DAY TEMPBAN",
+      "short_name": "Censor Personal Information",
+      "violation_reason": "Uncensored Personal Information",
+      "created_utc": 1753067896,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;As per the site-wide rules, censor all personal information, including the names of other subreddits and all personal social media usernames unless they are a public figure. THIS RULE WILL BE STRICTLY ENFORCED. ABSOLUTELY NO BAN MESSAGES FROM OTHER SUBREDDITS. THESE POSTS WILL RESULT IN A 3 DAY TEMPBAN&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "AI generated images must be marked using the Spoiler or NSFW tag or it will be removed.",
+      "short_name": "AI generated images must be marked Spoiler",
+      "violation_reason": "Uncensored ai-generated art",
+      "created_utc": 1753068021,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;AI generated images must be marked using the Spoiler or NSFW tag or it will be removed.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "This includes memes, overt, or indirect threats of violence/harassment.",
+      "short_name": "Harassment or threats of violence will result in an instant ban",
+      "violation_reason": "Harrassment or threats of violence",
+      "created_utc": 1753068137,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This includes memes, overt, or indirect threats of violence/harassment.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "No encouraging comments or posts on other subreddits. \n\nMinimize screenshots of arguments from other posts/subreddits. These may be locked at Mod discretion.\n\nLet\u2019s rise above the toxicity and keep posts focused on critical arguments and discussion about AI instead of internet drama.",
+      "short_name": "No Brigading",
+      "violation_reason": "Encourages brigading",
+      "created_utc": 1753068469,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;No encouraging comments or posts on other subreddits. &lt;/p&gt;\n\n&lt;p&gt;Minimize screenshots of arguments from other posts/subreddits. These may be locked at Mod discretion.&lt;/p&gt;\n\n&lt;p&gt;Let\u2019s rise above the toxicity and keep posts focused on critical arguments and discussion about AI instead of internet drama.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "While we appreciate human-created art, please limit these posts to Sundays to allow space for other anti-ai discussions",
+      "short_name": "Art posts should only be posted on Art Showcase Sundays",
+      "violation_reason": "Art post not on Sunday",
+      "created_utc": 1753068095,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;While we appreciate human-created art, please limit these posts to Sundays to allow space for other anti-ai discussions&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

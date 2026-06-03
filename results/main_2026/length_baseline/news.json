@@ -1,0 +1,28 @@
+{
+  "sub": "news",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 23,
+    "direction": "long_is_removed",
+    "bal_acc": 0.51,
+    "tp": 1693,
+    "fp": 1618,
+    "tn": 2388,
+    "fn": 2301
+  },
+  "test": {
+    "accuracy": 0.5235,
+    "f1_removed": 0.4755,
+    "f1_macro": 0.5195,
+    "kappa": 0.0481,
+    "precision": 0.5327,
+    "recall": 0.4294,
+    "balanced_accuracy": 0.5241,
+    "tp": 432,
+    "fp": 379,
+    "tn": 615,
+    "fn": 574
+  }
+}

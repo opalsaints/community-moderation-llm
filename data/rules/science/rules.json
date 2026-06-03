@@ -1,0 +1,226 @@
+{
+  "rules": [
+    {
+      "kind": "link",
+      "description": "Submissions must directly link either to recently published peer-reviewed research or a professional media summary of that peer-reviewed research.\n\n[View all submission rules](https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules)",
+      "short_name": "Must be peer-reviewed research",
+      "violation_reason": "Not peer-reviewed research",
+      "created_utc": 1652981855,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Submissions must directly link either to recently published peer-reviewed research or a professional media summary of that peer-reviewed research.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules\"&gt;View all submission rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Articles that obtain their information second-hand from other articles are not acceptable for submission. Websites that simply rehost press releases are prohibited.\n\nReposting of existing, popular submissions is prohibited.\n\nNo blogspam or media-only submissions.\n\n[View all submission rules](https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules)",
+      "short_name": "No summaries of summaries, rehosts, or reposts",
+      "violation_reason": "Summary of summary, rehost, or repost",
+      "created_utc": 1652981855,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Articles that obtain their information second-hand from other articles are not acceptable for submission. Websites that simply rehost press releases are prohibited.&lt;/p&gt;\n\n&lt;p&gt;Reposting of existing, popular submissions is prohibited.&lt;/p&gt;\n\n&lt;p&gt;No blogspam or media-only submissions.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules\"&gt;View all submission rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "The title and content of submissions should not be editorialized, sensationalized, or biased. All titles must adhere to our [headline rules](https://www.reddit.com/r/science/wiki/clickbait).\n\n[View all submission rules](https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules)",
+      "short_name": "No editorialized, sensationalized, or biased titles",
+      "violation_reason": "Editorialized, sensationalized, or biased title",
+      "created_utc": 1652981855,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The title and content of submissions should not be editorialized, sensationalized, or biased. All titles must adhere to our &lt;a href=\"https://www.reddit.com/r/science/wiki/clickbait\"&gt;headline rules&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules\"&gt;View all submission rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "All submissions must have been published within the past six months. This time requirement refers to the publication date of the research, not the news article or web page. Ambiguous publication dates are determined by the first date of availability following peer review. This may be labeled as the 'Published Online' or 'Pre-Proof' date.\n\n[View all submission rules](https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules)",
+      "short_name": "Research must be less than 6 months old",
+      "violation_reason": "Submission is more than 6 months old",
+      "created_utc": 1652981855,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;All submissions must have been published within the past six months. This time requirement refers to the publication date of the research, not the news article or web page. Ambiguous publication dates are determined by the first date of availability following peer review. This may be labeled as the &amp;#39;Published Online&amp;#39; or &amp;#39;Pre-Proof&amp;#39; date.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_submission_rules\"&gt;View all submission rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Comments must be on topic and not a meme or joke. Comments should constructively contribute to the discussion or be an attempt to learn more. This also means avoiding low-effort comments like \"water is wet\" or \"correlation doesn\u2019t prove causation.\"\n\n[View all comment rules](https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules)",
+      "short_name": "No off-topic comments, memes, low-effort comments or jokes",
+      "violation_reason": "Off topic, low effort, meme, or joke",
+      "created_utc": 1652981855,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Comments must be on topic and not a meme or joke. Comments should constructively contribute to the discussion or be an attempt to learn more. This also means avoiding low-effort comments like &amp;quot;water is wet&amp;quot; or &amp;quot;correlation doesn\u2019t prove causation.&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules\"&gt;View all comment rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Abusive comments include those that disparage or attack other users of the subreddit.\n\nOffensive comments are those that denigrate individuals or groups based on group membership or inherent characteristics. This includes bigoted comments that are thinly veiled by leading/insincere questions or \"just stating facts.\"\n\n[View all comment rules](https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules)",
+      "short_name": "No abusive or offensive comments",
+      "violation_reason": "Abusive or offensive",
+      "created_utc": 1652981855,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Abusive comments include those that disparage or attack other users of the subreddit.&lt;/p&gt;\n\n&lt;p&gt;Offensive comments are those that denigrate individuals or groups based on group membership or inherent characteristics. This includes bigoted comments that are thinly veiled by leading/insincere questions or &amp;quot;just stating facts.&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules\"&gt;View all comment rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Comments that only rely on a user's non-professional anecdotal evidence to confirm or refute a study will be removed (e.g. \"I do that but that result doesn't happen to me\"). Comments should be limited in personal details and scientific in nature. Including references to peer-reviewed research to support your claims is highly encouraged.\n\n[View all comment rules](https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules)",
+      "short_name": "Non-professional personal anecdotes will be removed",
+      "violation_reason": "Non-professional personal anecdote",
+      "created_utc": 1652981855,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Comments that only rely on a user&amp;#39;s non-professional anecdotal evidence to confirm or refute a study will be removed (e.g. &amp;quot;I do that but that result doesn&amp;#39;t happen to me&amp;quot;). Comments should be limited in personal details and scientific in nature. Including references to peer-reviewed research to support your claims is highly encouraged.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules\"&gt;View all comment rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Critiquing science is an important skill and one we want users to engage in but please try to do so with the assumption that the researchers who have spent years or decades in the field have already considered ideas that you came up with in a few minutes.\n\nPlease also remember that individual studies sit within a larger corpus of work that may have already addressed your concern.\n\n[View all comment rules](https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules)",
+      "short_name": "Criticism of published work should assume basic competence of the researchers and reviewers",
+      "violation_reason": "Criticism should assume basic competence of researchers",
+      "created_utc": 1652981855,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Critiquing science is an important skill and one we want users to engage in but please try to do so with the assumption that the researchers who have spent years or decades in the field have already considered ideas that you came up with in a few minutes.&lt;/p&gt;\n\n&lt;p&gt;Please also remember that individual studies sit within a larger corpus of work that may have already addressed your concern.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules\"&gt;View all comment rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Comments that dispute well-established scientific concepts (e.g. gravity, vaccination, anthropogenic climate change, etc.) must be supported with appropriate peer-reviewed evidence. Links to personal blogs or 'skeptic' websites are not valid forms of evidence.\n\nComments that dismiss entire fields of science (e.g., \"that\u2019s just a soft science\") will also be removed.\n\n[View all comment rules](https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules)",
+      "short_name": "Comments dismissing established findings and fields of science must provide evidence",
+      "violation_reason": "Unsubstantiated dismissal of established science",
+      "created_utc": 1652981855,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Comments that dispute well-established scientific concepts (e.g. gravity, vaccination, anthropogenic climate change, etc.) must be supported with appropriate peer-reviewed evidence. Links to personal blogs or &amp;#39;skeptic&amp;#39; websites are not valid forms of evidence.&lt;/p&gt;\n\n&lt;p&gt;Comments that dismiss entire fields of science (e.g., &amp;quot;that\u2019s just a soft science&amp;quot;) will also be removed.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules\"&gt;View all comment rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Offering or seeking medical advice is strictly prohibited and offending comments will be removed.\n\nDiscussions regarding the advantages and/or disadvantages of certain treatments, diets, or supplements are allowed as long as relevant and reputable evidence is provided.\n\n[View all comment rules](https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules)",
+      "short_name": "No medical advice",
+      "violation_reason": "No medical advice",
+      "created_utc": 1652981855,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Offering or seeking medical advice is strictly prohibited and offending comments will be removed.&lt;/p&gt;\n\n&lt;p&gt;Discussions regarding the advantages and/or disadvantages of certain treatments, diets, or supplements are allowed as long as relevant and reputable evidence is provided.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules\"&gt;View all comment rules&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

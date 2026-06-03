@@ -1,0 +1,253 @@
+{
+  "rules": [
+    {
+      "kind": "link",
+      "description": "A story that does not properly report a story, or is not noteworthy, or is not in English. Self-posts and meta-posts without moderator approval (live update threads, major breaking news, and megathreads are usually exempt) are not allowed. Articles must be about a specific news event.",
+      "short_name": "Submissions must be articles about a specific news event",
+      "violation_reason": "Submissions must be articles about a specific news event",
+      "created_utc": 1652980697,
+      "priority": 0,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;A story that does not properly report a story, or is not noteworthy, or is not in English. Self-posts and meta-posts without moderator approval (live update threads, major breaking news, and megathreads are usually exempt) are not allowed. Articles must be about a specific news event.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": " News articles must be covering recent events, which for our purposes refers to a story published within the last 7 days of submission to /r/news.",
+      "short_name": "Old News",
+      "violation_reason": "Old News",
+      "created_utc": 1745344153,
+      "priority": 1,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;News articles must be covering recent events, which for our purposes refers to a story published within the last 7 days of submission to &lt;a href=\"/r/news\"&gt;/r/news&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Opinion and analysis should go in /r/Foodforthought or another relevant subreddit. This includes articles with editorial opinion, personal conjecture, or otherwise. Press releases with an editorial slant, and analysis of news events (rather than reporting on the event itself) are not allowed. Both articles and domains regarding advocacy for a certain point of view or ideology rather than objective reporting should be reviewed under this rule.",
+      "short_name": "No opinion/analysis or advocacy pieces",
+      "violation_reason": "No opinion/analysis or advocacy pieces",
+      "created_utc": 1652980697,
+      "priority": 2,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Opinion and analysis should go in &lt;a href=\"/r/Foodforthought\"&gt;/r/Foodforthought&lt;/a&gt; or another relevant subreddit. This includes articles with editorial opinion, personal conjecture, or otherwise. Press releases with an editorial slant, and analysis of news events (rather than reporting on the event itself) are not allowed. Both articles and domains regarding advocacy for a certain point of view or ideology rather than objective reporting should be reviewed under this rule.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Articles must not be primarily concerning politics. To meet our requirements, a definitive outcome needs to have been reached. Political posturing, such as a politician making remarks, are not allowed. Political procedure, such as a bill being introduced for legislative review, are not allowed. A piece of legislation being signed into law or the results of an election being finalized are both examples of definitive outcomes which would be permitted.",
+      "short_name": "Articles must not be primarily concerning politics",
+      "violation_reason": "Articles must not be primarily concerning politics",
+      "created_utc": 1652980697,
+      "priority": 3,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Articles must not be primarily concerning politics. To meet our requirements, a definitive outcome needs to have been reached. Political posturing, such as a politician making remarks, are not allowed. Political procedure, such as a bill being introduced for legislative review, are not allowed. A piece of legislation being signed into law or the results of an election being finalized are both examples of definitive outcomes which would be permitted.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Editorialized titles, written by the posting user or the domain, are not allowed. Titles should be unbiased and strictly factual. When the article itself is titled appropriately, the submission title should be directly sourced from either the title OR lede of the linked article, but not both.\n\nDon't plug other subreddits in the title; adding cross-post references is not suitable for /r/news.",
+      "short_name": "No editorialized titles; Title must match article title",
+      "violation_reason": "No editorialized titles; Title must match article title",
+      "created_utc": 1652980697,
+      "priority": 4,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Editorialized titles, written by the posting user or the domain, are not allowed. Titles should be unbiased and strictly factual. When the article itself is titled appropriately, the submission title should be directly sourced from either the title OR lede of the linked article, but not both.&lt;/p&gt;\n\n&lt;p&gt;Don&amp;#39;t plug other subreddits in the title; adding cross-post references is not suitable for &lt;a href=\"/r/news\"&gt;/r/news&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "Domains which require the user to purchase a subscription or register an account in order to read the full article are not allowed in /r/news. All users should be able to access the article. Domains which are stealing or reposting content from other news sites, or simply rehash another article without adding substance, are not allowed, and users are encouraged to post the original source instead.",
+      "short_name": "No paywalls/blogspam that steals content",
+      "violation_reason": "No paywalls/blogspam that steals content",
+      "created_utc": 1652980697,
+      "priority": 5,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Domains which require the user to purchase a subscription or register an account in order to read the full article are not allowed in &lt;a href=\"/r/news\"&gt;/r/news&lt;/a&gt;. All users should be able to access the article. Domains which are stealing or reposting content from other news sites, or simply rehash another article without adding substance, are not allowed, and users are encouraged to post the original source instead.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "link",
+      "description": "This rule is in relation to already submitted stories which are being rehashed on multiple domains. If a popular story is being submitted while the same event is covered in another post on the front page, or one with sufficient upvotes at an earlier date, it may be subject to removal. If a story was already submitted but did not become popular, then the rule is not applicable. Spamming a story until it reaches the front page is in violation of reddit's sitewide rules and is not allowed.",
+      "short_name": "No posts covering an already submitted story",
+      "violation_reason": "No posts covering an already submitted story",
+      "created_utc": 1652980697,
+      "priority": 6,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This rule is in relation to already submitted stories which are being rehashed on multiple domains. If a popular story is being submitted while the same event is covered in another post on the front page, or one with sufficient upvotes at an earlier date, it may be subject to removal. If a story was already submitted but did not become popular, then the rule is not applicable. Spamming a story until it reaches the front page is in violation of reddit&amp;#39;s sitewide rules and is not allowed.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Comments containing racist, sexist or bigoted slurs are subject to removal. Comments which promote racism, sexism or bigotry (including a viewpoint in relation to those) are subject to removal, and users whom engage in posting such comments may be banned at the mods' discretion. Overly crude comments which add nothing to discussion are also subject to removal/ban. These include inappropriate or inflammatory comments, personal attacks, etc.",
+      "short_name": "Do not be racist, sexist, vitriolic, or overly crude",
+      "violation_reason": "Do not be racist, sexist, vitriolic, or overly crude",
+      "created_utc": 1652980697,
+      "priority": 7,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Comments containing racist, sexist or bigoted slurs are subject to removal. Comments which promote racism, sexism or bigotry (including a viewpoint in relation to those) are subject to removal, and users whom engage in posting such comments may be banned at the mods&amp;#39; discretion. Overly crude comments which add nothing to discussion are also subject to removal/ban. These include inappropriate or inflammatory comments, personal attacks, etc.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "In conjunction with vitriolic and crude comments, a comment that is unnecessarily rude (inflammatory comments, personal attacks) or purposefully provocative (baiting) are subject to removal/ban.\n\nAdvocating for or celebrating the death of another human being is grounds for a permanent ban from r/news. Regardless of what you think about a person, this type of discourse is unwelcome on r/news and we will not hesitate to remove you for it.",
+      "short_name": "Do not be unnecessarily rude or provocative",
+      "violation_reason": "Unnecessarily rude or provocative",
+      "created_utc": 1652980697,
+      "priority": 8,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;In conjunction with vitriolic and crude comments, a comment that is unnecessarily rude (inflammatory comments, personal attacks) or purposefully provocative (baiting) are subject to removal/ban.&lt;/p&gt;\n\n&lt;p&gt;Advocating for or celebrating the death of another human being is grounds for a permanent ban from &lt;a href=\"/r/news\"&gt;r/news&lt;/a&gt;. Regardless of what you think about a person, this type of discourse is unwelcome on &lt;a href=\"/r/news\"&gt;r/news&lt;/a&gt; and we will not hesitate to remove you for it.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "Jokes, memes, puns, and overall low quality comments are subject to removal, especially in the top-level comments.",
+      "short_name": "No cheap or distracting jokes or memes",
+      "violation_reason": "No cheap or distracting jokes or memes",
+      "created_utc": 1652980697,
+      "priority": 9,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Jokes, memes, puns, and overall low quality comments are subject to removal, especially in the top-level comments.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Any thread which violates reddit's site-wide rules or invokes a witch-hunt is not allowed in /r/news.\n\nContact information publicly advertised by the person or organization in question is allowed so long as it is not being used to incite personal harassment, and doesn't contain personal contact information (home phone number, information of non-public family members, etc.) **To ensure that such comments aren't removed, provide a link to the official page where this information is contained.**",
+      "short_name": "No witchhunting. Follow the Reddit Content Policy.",
+      "violation_reason": "No witchhunting. Follow the Reddit Content Policy.",
+      "created_utc": 1652980697,
+      "priority": 10,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Any thread which violates reddit&amp;#39;s site-wide rules or invokes a witch-hunt is not allowed in &lt;a href=\"/r/news\"&gt;/r/news&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;Contact information publicly advertised by the person or organization in question is allowed so long as it is not being used to incite personal harassment, and doesn&amp;#39;t contain personal contact information (home phone number, information of non-public family members, etc.) &lt;strong&gt;To ensure that such comments aren&amp;#39;t removed, provide a link to the official page where this information is contained.&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "comment",
+      "description": "While civil criticism of others is allowed (whether living or deceased), advocating or celebrating the death of others, including public figures, is not.",
+      "short_name": "Do not advocate or celebrate death",
+      "violation_reason": "Advocating or celebrating death",
+      "created_utc": 1652980697,
+      "priority": 11,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;While civil criticism of others is allowed (whether living or deceased), advocating or celebrating the death of others, including public figures, is not.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    },
+    {
+      "kind": "all",
+      "description": "Bots and novelty accounts are not allowed",
+      "short_name": "No bots/Novelty accounts",
+      "violation_reason": "No bots/Novelty accounts",
+      "created_utc": 1652980697,
+      "priority": 12,
+      "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Bots and novelty accounts are not allowed&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;"
+    }
+  ],
+  "site_rules": [
+    "Spam",
+    "Personal and confidential information",
+    "Threatening, harassing, or inciting violence"
+  ],
+  "site_rules_flow": [
+    {
+      "reasonTextToShow": "This is spam",
+      "reasonText": "This is spam"
+    },
+    {
+      "reasonTextToShow": "This is misinformation",
+      "reasonText": "This is misinformation"
+    },
+    {
+      "nextStepHeader": "In what way?",
+      "reasonTextToShow": "This is abusive or harassing",
+      "nextStepReasons": [
+        {
+          "nextStepHeader": "Who is the harassment targeted at?",
+          "reasonTextToShow": "It's targeted harassment",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It's targeted harassment at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It's targeted harassment at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "nextStepHeader": "Who is the threat directed at?",
+          "reasonTextToShow": "It threatens violence or physical harm",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "At me",
+              "reasonText": "It threatens violence or physical harm at me"
+            },
+            {
+              "reasonTextToShow": "At someone else",
+              "reasonText": "It threatens violence or physical harm at someone else"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's rude, vulgar or offensive",
+          "reasonText": "It's rude, vulgar or offensive"
+        },
+        {
+          "reasonTextToShow": "It's abusing the report button",
+          "canWriteNotes": true,
+          "isAbuseOfReportButton": true,
+          "notesInputTitle": "Additional information (optional)",
+          "reasonText": "It's abusing the report button"
+        }
+      ],
+      "reasonText": ""
+    },
+    {
+      "nextStepHeader": "What issue?",
+      "reasonTextToShow": "Other issues",
+      "nextStepReasons": [
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=COPYRIGHT&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my copyright",
+          "reasonTextToShow": "It infringes my copyright",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=TRADEMARK&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "It infringes my trademark rights",
+          "reasonTextToShow": "It infringes my trademark rights",
+          "fileComplaint": true,
+          "complaintPrompt": "If you think content on Reddit violates your intellectual property, please file a complaint at the link below:"
+        },
+        {
+          "reasonTextToShow": "It's personal and confidential information",
+          "reasonText": "It's personal and confidential information"
+        },
+        {
+          "reasonTextToShow": "It's sexual or suggestive content involving minors",
+          "reasonText": "It's sexual or suggestive content involving minors"
+        },
+        {
+          "nextStepHeader": "Do you appear in the image?",
+          "reasonTextToShow": "It's involuntary pornography",
+          "nextStepReasons": [
+            {
+              "reasonTextToShow": "I appear in the image",
+              "reasonText": "It's involuntary pornography and i appear in it"
+            },
+            {
+              "reasonTextToShow": "I do not appear in the image",
+              "reasonText": "It's involuntary pornography and i do not appear in it"
+            }
+          ],
+          "reasonText": ""
+        },
+        {
+          "reasonTextToShow": "It's a transaction for prohibited goods or services",
+          "reasonText": "It's a transaction for prohibited goods or services"
+        },
+        {
+          "complaintButtonText": "File a complaint",
+          "complaintUrl": "https://www.reddit.com/api/report_redirect?thing=%25%28thing%29s&amp;reason_code=DSA_OSA_AU&amp;feature=from_r2",
+          "complaintPageTitle": "File a complaint?",
+          "reasonText": "Illegal/restricted content (EU, UK, and AU only)",
+          "reasonTextToShow": "Illegal/restricted content (EU, UK, and AU only)",
+          "fileComplaint": true,
+          "complaintPrompt": "EU, UK, and AU users only: Use this form to report content that you believe is illegal or restricted in your region, including terrorism, violence, and child sexual exploitation."
+        },
+        {
+          "usernamesInputTitle": "Username",
+          "reasonTextToShow": "Someone is considering suicide or serious self-harm.",
+          "canSpecifyUsernames": true,
+          "reasonText": "Someone is considering suicide or serious self-harm.",
+          "requestCrisisSupport": true,
+          "oneUsername": true
+        }
+      ],
+      "reasonText": ""
+    }
+  ]
+}

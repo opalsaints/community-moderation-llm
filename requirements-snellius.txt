@@ -1,0 +1,13 @@
+# Snellius HPC (A100) dependencies for training and vLLM evaluation.
+# Load the toolchain first, then install into a virtualenv:
+#   module load 2025 Python/3.13.1-GCCcore-14.2.0
+#   python -m venv ~/capstone_env && source ~/capstone_env/bin/activate
+#   pip install -r requirements-snellius.txt
+
+torch>=2.10
+transformers>=4.57
+vllm>=0.18
+peft>=0.18
+trl>=1.0
+datasets>=3.0
+bitsandbytes>=0.49

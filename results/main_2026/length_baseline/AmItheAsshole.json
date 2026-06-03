@@ -1,0 +1,28 @@
+{
+  "sub": "AmItheAsshole",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 42,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5256,
+    "tp": 2622,
+    "fp": 2425,
+    "tn": 1581,
+    "fn": 1372
+  },
+  "test": {
+    "accuracy": 0.5345,
+    "f1_removed": 0.589,
+    "f1_macro": 0.5262,
+    "kappa": 0.0676,
+    "precision": 0.5298,
+    "recall": 0.663,
+    "balanced_accuracy": 0.5337,
+    "tp": 667,
+    "fp": 592,
+    "tn": 402,
+    "fn": 339
+  }
+}

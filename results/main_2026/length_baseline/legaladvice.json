@@ -1,0 +1,28 @@
+{
+  "sub": "legaladvice",
+  "length_unit": "words",
+  "n_train": 8000,
+  "n_test": 2000,
+  "fit_on_train": {
+    "threshold": 23,
+    "direction": "short_is_removed",
+    "bal_acc": 0.5544,
+    "tp": 1830,
+    "fp": 1400,
+    "tn": 2606,
+    "fn": 2164
+  },
+  "test": {
+    "accuracy": 0.5415,
+    "f1_removed": 0.5035,
+    "f1_macro": 0.5388,
+    "kappa": 0.0839,
+    "precision": 0.5529,
+    "recall": 0.4622,
+    "balanced_accuracy": 0.542,
+    "tp": 465,
+    "fp": 376,
+    "tn": 618,
+    "fn": 541
+  }
+}
