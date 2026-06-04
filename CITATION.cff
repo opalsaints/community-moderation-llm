@@ -1,16 +1,33 @@
 cff-version: 1.2.0
-message: "If you use this code, the released adapters, or the dataset, please cite the thesis."
-title: "Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit"
+message: "If you use this code, the released adapters, or the dataset, please cite the thesis (see preferred-citation)."
+title: "Community-Moderation-LLM: Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit"
+abstract: "Code, configuration, and aggregate results for a BSc Capstone study on whether open-weight LLMs (Qwen3-14B with per-subreddit and pooled LoRA adapters) can stand in for human moderators on individual subreddits, each with its own rules and norms."
+type: software
 authors:
   - family-names: Cowley
     given-names: Jonathan
-type: thesis
-year: 2026
-institution:
-  name: "Amsterdam University College / University of Amsterdam"
+    orcid: "https://orcid.org/0009-0005-7336-6550"
+repository-code: "https://github.com/opalsaints/community-moderation-llm"
+url: "https://github.com/opalsaints/community-moderation-llm"
+version: v1.0.0
+date-released: 2026-01-01
+license: MIT
 keywords:
   - content moderation
   - Reddit
   - large language models
   - LoRA
   - Qwen3
+  - natural language processing
+  - Arctic Shift
+preferred-citation:
+  type: thesis
+  title: "Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit"
+  authors:
+    - family-names: Cowley
+      given-names: Jonathan
+      orcid: "https://orcid.org/0009-0005-7336-6550"
+  year: 2026
+  institution:
+    name: "Amsterdam University College / University of Amsterdam"
+  thesis-type: "BSc Thesis"

@@ -1,0 +1,20 @@
+# Known-good versions from the Snellius A100 run; see requirements-snellius.txt for floors.
+#
+# Best-effort pin: these are the versions the main 2026 study ran against on the
+# Snellius A100 nodes, not a pip-freeze of that environment, so a handful of
+# transitive dependencies are left unpinned. Use this file when an exact rebuild
+# of the training and vLLM evaluation environment is needed; the floors in
+# requirements-snellius.txt are the more permissive (and likely repro break-point)
+# alternative.
+#
+#   module load 2025 Python/3.13.1-GCCcore-14.2.0
+#   python -m venv ~/capstone_env && source ~/capstone_env/bin/activate
+#   pip install -r requirements-lock.txt
+
+torch==2.10.0
+transformers==4.57.1
+vllm==0.18.1
+peft==0.18.1
+trl==1.0.0
+datasets==3.0.0
+bitsandbytes==0.49.0

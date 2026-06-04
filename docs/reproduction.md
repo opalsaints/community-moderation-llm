@@ -22,7 +22,7 @@ pip install -r requirements-snellius.txt
 
 ## 2. Data
 
-The dataset is built from the [Arctic Shift](https://arctic-shift.photon-reddit.com/) archive, window 2025-10-01 to 2026-04-01. A comment is labelled `removed` only when its text was captured and its metadata marks a moderator removal (`removal_type == "removed"`); user self-deletions and text-less `[removed]`/`[deleted]` stubs are dropped. The test split is balanced 50/50.
+The dataset is built from the [Arctic Shift](https://arctic-shift.photon-reddit.com/) archive, window 2025-10-01 to 2026-04-01. A comment is labelled `removed` only when its text was captured and its metadata marks a moderator removal (`removal_type == "removed"`); user self-deletions and text-less `[removed]`/`[deleted]` stubs are dropped. The test split is balanced 50/50 and drawn with seed 42, so the same comment IDs land in the test set on every rebuild.
 
 ```bash
 python src/data/download_subreddit.py changemyview --after 2025-10-01 --before 2026-04-01 --output-dir data/raw/
@@ -42,7 +42,7 @@ python src/data/build_enriched_dataset.py --dataset-dir data/dataset/changemyvie
 
 `build_enriched_dataset.py` (with `enrich_v2.py`, `fetch_post_titles.py`, `fetch_account_ages.py`, `compute_author_features.py`) produces the `enriched_v2` split: the comment, its parent, the subreddit rules, and a set of lightweight post-level and author-level features (post title, thread position, account age, and so on).
 
-To rebuild the exact test sets used here without re-downloading entire subreddits, start from `data/comment_ids/<subreddit>_test_ids.txt` and fetch those IDs through Arctic Shift.
+To rebuild the exact test sets used here without re-downloading entire subreddits, start from `data/comment_ids/<subreddit>_test_ids.txt` and fetch those IDs through Arctic Shift. Those ID lists are the seed-42 balanced split, so rebuilding from them reproduces the split used for every number in `results/`.
 
 ## 3. Per-community fine-tuning
 
@@ -74,6 +74,8 @@ from transformers import AutoModelForCausalLM
 base = AutoModelForCausalLM.from_pretrained("Qwen/Qwen3-14B")
 model = PeftModel.from_pretrained(base, "opalitestudios/qwen3-14b-reddit-moderation-changemyview")
 ```
+
+Once the adapter repositories carry version tags, you can pin an exact adapter revision by passing `revision=` to `from_pretrained` (for example `revision="v1.0.0"`), so a rebuild loads the same weights regardless of later updates.
 
 ## 4. Pooled adapter
 

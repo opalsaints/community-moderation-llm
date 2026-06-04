@@ -83,6 +83,20 @@ POOL_KAPPA = {
     "legaladvice": 0.4860,
 }
 
+# Per-subreddit fine-tune kappa recomputed on the SAME first-1,000-comment
+# deterministic prefix the pooled adapter is evaluated on, for a matched
+# comparison against POOL_KAPPA. These are the FT-kappa column of the pooled
+# results table; the n=2,000 headline per-sub kappa (macro 0.573) is a
+# different, larger test set and must not be mixed with the pooled n=1,000
+# values. Macro of this dict is 0.568, so pool - per-sub = +0.013.
+PERSUB_KAPPA_N1000 = {
+    "antiai": 0.690, "explainlikeimfive": 0.684, "AmItheAsshole": 0.622,
+    "changemyview": 0.610, "TwoXChromosomes": 0.576, "aiwars": 0.572,
+    "relationships": 0.560, "AskHistorians": 0.552, "personalfinance": 0.552,
+    "politics": 0.540, "science": 0.534, "Games": 0.528, "askscience": 0.508,
+    "legaladvice": 0.508, "news": 0.478,
+}
+
 
 def load_per_sub_metrics() -> dict[str, dict]:
     out = {}
@@ -195,9 +209,9 @@ def figure_b():
 # ---------------- Figure D: pool-vs-per-sub dumbbell plot ----------------
 
 def figure_d():
-    metrics = load_per_sub_metrics()
-    subs_sorted = sorted(SUBS_15, key=lambda s: metrics[s]["cohens_kappa"])
-    persub = [metrics[s]["cohens_kappa"] for s in subs_sorted]
+    # Matched comparison: both adapters on the first-1,000-comment prefix.
+    subs_sorted = sorted(SUBS_15, key=lambda s: PERSUB_KAPPA_N1000[s])
+    persub = [PERSUB_KAPPA_N1000[s] for s in subs_sorted]
     pool = [POOL_KAPPA[s] for s in subs_sorted]
 
     fig, ax = plt.subplots(figsize=(6.0, 4.4))
@@ -206,10 +220,11 @@ def figure_d():
     for i, (ps, po) in enumerate(zip(persub, pool)):
         low, high = sorted([ps, po])
         ax.plot([low, high], [i, i], color=COLOR_MUTED, linewidth=1.4, zorder=1)
-    ax.scatter(persub, y, color=COLOR_ACCENT, s=32, label="per-subreddit adapter",
+    ax.scatter(persub, y, color=COLOR_ACCENT, s=32,
+               label="per-subreddit adapter (n=1,000)",
                zorder=3, edgecolor="white", linewidth=0.6)
     ax.scatter(pool, y, color=COLOR_NEG, s=32, marker="D",
-               label="pooled adapter (with sub ID)", zorder=3,
+               label="pooled adapter (n=1,000)", zorder=3,
                edgecolor="white", linewidth=0.6)
 
     ax.axvline(0.6, color="#BBBBBB", linestyle=(0, (4, 3)), linewidth=0.8,
@@ -400,7 +415,7 @@ def figure_i():
     # R4_stacked bars (saturated) -- overlay
     ax.barh(y, kr4, color=COLOR_ACCENT, alpha=0.9, edgecolor="white",
             linewidth=0.5, height=0.42,
-            label=r"R4\_stacked adapter $\kappa$")
+            label=r"fine-tuned adapter $\kappa$")
 
     # Direction marker on each row.
     for i, d in enumerate(direc):
@@ -427,7 +442,7 @@ def figure_i():
     macro_r4 = float(np.mean(kr4))
     ax.set_title(
         f"macro $\\kappa$: length {macro_len:.3f}  $\\rightarrow$  "
-        f"R4\\_stacked {macro_r4:.3f}  "
+        f"fine-tuned {macro_r4:.3f}  "
         f"($\\Delta = {macro_r4 - macro_len:+.3f}$)",
         fontsize=9, loc="right", color=COLOR_ACCENT, style="italic", pad=6,
     )

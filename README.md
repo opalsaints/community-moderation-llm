@@ -53,7 +53,7 @@ The `n (test)` column is the fine-tuned and Gemini test size. The pooled adapter
 | Claude Sonnet 4.6 | - | Prompted baseline | Anthropic API |
 | Gemma 2 9B, Llama 3.1 8B, Mistral NeMo 12B, Qwen 2.5 7B | 8-12B | 2024 model-selection pilot only | vLLM |
 
-The fine-tuning recipe (`configs/training_config.json`): LoRA rank 16, alpha 16, all seven projection modules, two epochs, completion-only loss, the `enriched_v2` prompt template (post title, thread position, account age, and other lightweight metadata on top of the subreddit rules). The adapters are on Hugging Face under [opalitestudios](https://huggingface.co/opalitestudios), named `qwen3-14b-reddit-moderation-<subreddit>` (plus a `qwen3-14b-reddit-moderation-pooled` adapter).
+The fine-tuning recipe (`configs/training_config.json`): LoRA rank 16, alpha 16, all seven projection modules, two epochs, completion-only loss, the `enriched_v2` prompt template (post title, thread position, account age, and other lightweight metadata on top of the subreddit rules). The adapters are on Hugging Face under [opalitestudios](https://huggingface.co/opalitestudios), named `qwen3-14b-reddit-moderation-<subreddit>` (plus a `qwen3-14b-reddit-moderation-pooled` adapter). Load one with PEFT on top of the base model rather than retraining (see `docs/reproduction.md` for the snippet); once the adapter repositories carry version tags, pass `revision=` to `PeftModel.from_pretrained` to pin an exact adapter version.
 
 ## Subreddits
 
@@ -74,7 +74,7 @@ data/comment_ids/ test-set comment IDs, to rebuild the exact splits from Arctic 
 data/samples/   small anonymized demo
 results/main_2026/  aggregate metrics for the 15-subreddit study (fine-tuned, pooled, baselines, natural-rate, length baseline)
 results/pilot_2024/ the 2024 model-selection pilot metrics (30 subreddits, four families)
-appendix/       rendered example prompts (one removed, one approved per subreddit)
+appendix/       rendered example prompts (one removed, one approved each) for the 12 subreddits not shown in the thesis appendix, which covers AskHistorians, changemyview, antiai
 figures/        figures from the thesis
 docs/           detailed reproduction notes
 ```
@@ -150,6 +150,8 @@ An approved-comments-only corpus (no moderator-removed text) is published separa
 
 ## Citation
 
+If you use the code, the released adapters, or the dataset, please cite the thesis:
+
 ```bibtex
 @thesis{cowley2026moderation,
   title  = {Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit},
@@ -159,6 +161,20 @@ An approved-comments-only corpus (no moderator-removed text) is published separa
   type   = {BSc Thesis}
 }
 ```
+
+### How to cite the dataset or the adapters
+
+The thesis is the primary reference for every artifact in this project. The three
+artifact homes cross-link back here and to one another:
+
+- This repository: https://github.com/opalsaints/community-moderation-llm (code, configs, aggregate results, `CITATION.cff`).
+- The LoRA adapters on Hugging Face: https://huggingface.co/opalitestudios (named `qwen3-14b-reddit-moderation-<subreddit>` and `qwen3-14b-reddit-moderation-pooled`).
+- The approved-comments dataset on Kaggle: https://www.kaggle.com/datasets/jonathancowley/reddit-approved-comments-15-communities-2026
+
+When citing the **adapters** or the **dataset** specifically, cite the thesis above and
+add a parenthetical pointing at the artifact you used (the Hugging Face adapter name, or
+the Kaggle dataset URL). `CITATION.cff` carries the machine-readable version of this
+citation; GitHub renders a "Cite this repository" widget from it.
 
 ## License
 
