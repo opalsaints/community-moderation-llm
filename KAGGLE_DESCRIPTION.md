@@ -40,23 +40,20 @@ the project repository and on Hugging Face (links below).
 
 ### What is in it
 
-Each row is a single approved comment plus the lightweight context features used
-in the study's `enriched_v2` prompt template:
+Each row is a single moderator-approved comment with its thread context:
 
 | Field | Type | Description |
 |---|---|---|
+| `body` | string | The approved comment text. |
 | `subreddit` | string | Source community (one of the 15 below). |
-| `label` | string | Moderator decision. In this release every row is `approved`. |
-| `body` | string | The comment text. |
-| `parent_body` | string | Text of the parent comment, or empty for a top-level reply. |
-| `post_title` | string | Title of the submission the comment sits under. |
-| `is_top_level` | bool | True if the comment is a direct reply to the post. |
-| `account_age_days` | int | Author account age in days at comment time. |
+| `context` | string | Preceding thread context (parent/ancestor comment text), or empty for a top-level reply. |
 
-Note on `post_title`: a few rows show the post title `[ Removed by moderator ]`.
-That is Reddit's own placeholder for a removed parent submission. It is NOT
-removed comment text leaking into the dataset; the comment in `body` is itself
-approved.
+Every comment in this dataset is moderator-approved: there is no removed-comment
+text and no per-comment model predictions. A small number of rows mention
+Reddit's own `[deleted]` or `[ Removed by moderator ]` placeholder inside `body`
+or `context` (for example, an approved comment that discusses a removal). That is
+Reddit's placeholder string, not leaked removed-comment content; the comment in
+`body` is itself approved.
 
 ### Communities (15)
 

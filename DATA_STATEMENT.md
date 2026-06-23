@@ -32,7 +32,7 @@ Comments come from the [Arctic Shift](https://arctic-shift.photon-reddit.com/) p
 
 ## Anonymization method
 
-Usernames are stripped from every released artifact. In the demo records, only the comment metadata and text needed to illustrate the schema are kept, with no author handle. In the appendix examples, authors are referred to by neutral placeholders (for example `user_anon_001`) and removed comments are replaced with paraphrases rather than verbatim text. Comment IDs are retained because they are opaque identifiers that do not themselves reveal an author, and because they are the mechanism by which a reader can re-fetch the original record from the public archive.
+Usernames are stripped from every released artifact. In the demo records, only the comment metadata and text needed to illustrate the schema are kept, with no author handle. In the appendix examples, authors are referred to by neutral placeholders (for example `user_anon_001`) and removed comments are replaced with paraphrases rather than verbatim text. Comment IDs are retained because they are opaque identifiers that do not themselves reveal an author, and because they are the mechanism by which a reader can re-fetch the original record from the public archive. The task-overview figure (`figures/moderation_task_figure.png`) is an illustrative mock-up: the usernames and comment text shown in it are fabricated for illustration and do not correspond to any real Reddit user or comment.
 
 ## Legal and policy rationale
 
