@@ -1,6 +1,7 @@
 {
   "title": "Community-Moderation-LLM: Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit",
   "upload_type": "software",
+  "publication_date": "2026-06-23",
   "description": "Code, configuration, and aggregate results for a BSc Capstone study on whether open-weight LLMs can stand in for human moderators on individual subreddits, each with its own rules and norms. The approach fine-tunes one Qwen3-14B LoRA adapter per community plus a pooled adapter and measures agreement with the moderators who made the original remove/keep decisions, using the Arctic Shift Reddit archive (2025-10-01 to 2026-04-01). Released artifacts cover the data pipeline, training and evaluation code, subreddit rules, test-set comment IDs, and aggregate metrics; moderator-removed comment text and per-comment predictions are not redistributed.",
   "creators": [
     {

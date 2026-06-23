@@ -10,7 +10,7 @@ authors:
 repository-code: "https://github.com/opalsaints/community-moderation-llm"
 url: "https://github.com/opalsaints/community-moderation-llm"
 version: v1.0.0
-date-released: 2026-01-01
+date-released: 2026-06-23
 license: MIT
 keywords:
   - content moderation
