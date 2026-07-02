@@ -9,6 +9,14 @@ authors:
     orcid: "https://orcid.org/0009-0005-7336-6550"
 repository-code: "https://github.com/opalsaints/community-moderation-llm"
 url: "https://github.com/opalsaints/community-moderation-llm"
+doi: 10.5281/zenodo.21130401
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21130401
+    description: "Concept DOI for all versions; resolves to the latest release."
+  - type: doi
+    value: 10.5281/zenodo.21130402
+    description: "Version DOI for v1.0.0."
 version: v1.0.0
 date-released: 2026-06-23
 license: MIT

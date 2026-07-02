@@ -1,5 +1,7 @@
 # Evaluating Open-Source LLMs for Community-Specific Content Moderation on Reddit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21130401.svg)](https://doi.org/10.5281/zenodo.21130401)
+
 Code, configuration, and aggregate results for my BSc Capstone thesis (Amsterdam University College / University of Amsterdam, 2026).
 
 The project asks a single question: can current open-weight LLMs stand in for human moderators on individual subreddits, each with its own rules and norms? I fine-tune one small adapter per community and measure how closely its remove/keep decisions agree with the moderators who actually made them.
@@ -162,12 +164,14 @@ If you use the code, the released adapters, or the dataset, please cite the thes
 }
 ```
 
+The repository itself is archived on Zenodo: concept DOI [10.5281/zenodo.21130401](https://doi.org/10.5281/zenodo.21130401) always resolves to the latest release, and each release carries its own version DOI (v1.0.0 is [10.5281/zenodo.21130402](https://doi.org/10.5281/zenodo.21130402)).
+
 ### How to cite the dataset or the adapters
 
 The thesis is the primary reference for every artifact in this project. The three
 artifact homes cross-link back here and to one another:
 
-- This repository: https://github.com/opalsaints/community-moderation-llm (code, configs, aggregate results, `CITATION.cff`).
+- This repository: https://github.com/opalsaints/community-moderation-llm (code, configs, aggregate results, `CITATION.cff`), archived at [doi:10.5281/zenodo.21130401](https://doi.org/10.5281/zenodo.21130401).
 - The LoRA adapters on Hugging Face: https://huggingface.co/opalitestudios (named `qwen3-14b-reddit-moderation-<subreddit>` and `qwen3-14b-reddit-moderation-pooled`).
 - The approved-comments dataset on Kaggle: https://www.kaggle.com/datasets/jonathancowley/reddit-approved-comments-15-communities-2026
 
